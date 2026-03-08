@@ -1,0 +1,128 @@
+---
+title: "Quiz van Europese en Taalkunde"
+author: "Dr. Darnbrough en Dr. Van Hoey"
+format:
+  revealjs:
+    incremental: true
+    logo: quiz_europese_taalkunde/logo.png
+    footer: "De Grote Talenquiz"
+    transition: fade
+    css: presentation/style.css
+include-after-body: presentation/fragmentPlay.html
+---
+
+::: {.text-center .v-center-container}
+
+<div style="font-size: 5vh;">
+
+Europese Literatuur en Taalkunde join forces in deze quiz, welkom!
+
+</div>
+
+:::
+
+::: {.notes}
+Uitleg over de avond.
+:::
+
+## Strijdende teams vanavond
+
+
+- Pipopapipo
+- Taylor Quist
+- Goethe verliezers
+- Don Quizote
+- De Athosbergbestormers
+- Adulescentes capientes
+- De sint-dimpnagirls
+
+
+
+## De regels
+
+1. Geen gsm's!
+1. Personen: achternaam volstaat -- als je de voornaam geeft, moet die correct zijn
+1. Kleinste punteenheid = half puntje
+<!-- 2. Ben je het niet eens met een antwoord? Zeuren kan tijdens de pauze -->
+<!-- 3. De jury beslist of ze naar jullie gezeur zal luisteren -->
+<!-- 4. De dorstigen zullen gelaafd worden! -->
+5. Geniet van de avond!
+
+::: {.notes}
+Eerst een paar regels
+
+1. Geen gsm's!
+1. Personen: achternaam volstaat -- als je de voornaam geeft, moet die correct zijn
+1. Kleinste punteenheid = half puntje
+<!-- 2. Ben je het niet eens met een antwoord? Zeuren kan tijdens de pauze -->
+<!-- 3. De jury beslist of ze naar jullie gezeur zal luisteren -->
+<!-- 4. De dorstigen zullen gelaafd worden! Je kan je bestelling doorgeven op een blaadje en de studenten zullen rondkomen. Betalen kan via payconic. -->
+5. Geniet van de avond!
+
+:::
+
+## Voor we beginnen...
+
+Met dank aan onze verbeteraars en juryleden van Babylon 🫰🏻️
+
+Onthoud, *de pen is machtiger dan het zwaard*.
+
+Graag een applausje voor hen!
+
+
+## Rondes
+
+
+::::: {.columns}
+
+:::: {.column width="50%"}
+
+1. Emoji
+2. Lang zal ze leven
+3. Old Skool ATW
+4. Rode draad
+
+
+
+:::  {.fragment}
+
+Afgeven tafelrondes
+
+PAUZE
+
+:::
+
+::::
+
+:::: {.column width="50%"}
+
+5. Putting the fun in phonetics
+6. Playlist voor de literatuurlijst
+
+:::  {.fragment}
+
+Nabespreken tafelrondes
+
+:::
+
+7. TAFEL Kruiswoordraadsels
+8. TAFEL Anagrammen en abjadtitels
+9. TAFEL Connections
+
+
+::::
+
+:::::
+
+
+
+----
+
+::: {.text-center .v-center-container}
+
+<div style="text-align: center; font-size: 10vw;">
+
+Veel succes!
+</div>
+
+:::
