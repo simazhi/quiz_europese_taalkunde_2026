@@ -1,624 +1,248 @@
 {
-    "Emoji": [
-        {
-            "question": "Geef de juiste uitdrukking of titel.",
-            "question_general": "Vertaal naar het Nederlands.",
-            "images": [ "assets/emoji_1.png" ],
-            "answer": "de pen is machtiger dan het zwaard"
-        },
-        {
-            "question": "Geef de juiste uitdrukking of titel.",
-            "images": [ "assets/emoji_2.png" ],
-            "answer": "wie A zegt moet ook B zeggen"
-        },
-        {
-            "question": "Geef de juiste uitdrukking of titel.",
-            "images": [ "assets/emoji_3.png" ],
-            "answer": "Decamerone (van Bocaccio)"
-        },
-        {
-            "question": "Geef de juiste uitdrukking of titel.",
-            "images": [ "assets/emoji_4.png" ],
-            "answer": "Goddelijke komedie (van Dante)"
-        },
-        {
-            "question": "Geef de juiste uitdrukking of titel.",
-            "images": [ "assets/emoji_5.png" ],
-            "answer": "Het Nibelungenlied"
-        },
-        {
-            "question": "Geef de juiste uitdrukking of titel.",
-            "images": [ "assets/emoji_6.png" ],
-            "answer": "Afscheid van een geliefde (van Sappho)"
-        },
-        {
-            "question": "Geef de juiste uitdrukking of titel.",
-            "images": [ "assets/emoji_7.png" ],
-            "answer": "Moby Dick (van Melville)"
-        },
-        {
-            "question": "Geef de juiste uitdrukking of titel.",
-            "images": [ "assets/emoji_8.png" ],
-            "answer": "Schimmen (van Ibsen)"
-        },
-        {
-            "question": "Geef de juiste uitdrukking of titel.",
-            "images": [ "assets/emoji_9.png" ],
-            "answer": "skibidi toilet"
-        },
-        {
-            "question": "Geef de juiste uitdrukking of titel.",
-            "images": [ "assets/emoji_9.png" ],
-            "answer": "brain rot"
-        }
-    ],
-
-
-
-
-
-
-    "Lang zal ze leven": [
-        {
-            "question": "*Gedenk dat gij sterfelijk zijn en vroeg of laat onder de grond belandt, ten prooi geworpen aan mollengijs, de dood, die niemand spaart.* Dit is een voorbeeld van welk motief dat typisch is voor de late middeleeuwen en barokke literatuur?",
-            "choices":[
-                "Fugit tempus",
-                "Carpe diem",
-                "Memento mori",
-                "Locus amoenus"
-            ],
-            "answer": "Memento mori",
-            "question_general": "Er is leven na de dood."
-        },
-        {
-            "question": "Wie is er niet dood op het einde van het toneelstuk?",
-            "choices":[
-                "Regina",
-                "Klytaimnestra",
-                "Salomé",
-                "Phaedre"
-            ],
-            "answer": "Regina"
-        },
-        {
-            "question": "Bij de gothic novel sluit ook een groep dichters aan bekend als de _______ die in sombere en melancholische elegische gedichten hun fascinatie uiten voor vergankelijkheid. Een voorbeeld is *Night Thoughts* van Edward Young.",
-            "answer": "The Graveyard Poets"
-        },
-        {
-            "question": "Wie is er niet dood op het einde van het verhaal?",
-            "choices":[
-                "Emma Bovary",
-                "Jane Eyre",
-                "Werther",
-                "Cepparello"
-            ],
-            "answer": "Jane Eyre"
-        },
-        {
-            "question": "Wie schreef de boekenreeks bestaande uit 41 delen die zich afspeelt op een platte wereld die rust op vier olifanten die op het schild staan van een schildpad die door de ruimte vliegt. Het personage Death komt in 39 verhalen voor en spreekt in small caps.",
-            "answer": "Sir Terry Pratchett (met zijn *Discworld* novels)"
-        },
-        {
-            "question": "Wie won de Nobelprijs voor Literatuur in 1929? Deze auteur is bekend van (o.a.) een boek over een man die sterft in een stad in het noorden van Italië.",
-            "answer": "Thomas Mann"
-        },
-        {
-            "question": "Wat is de tijdschaal van het toneelstuk Romeo en Julia (van Shakespeare)?",
-            "choices":[
-                "een week",
-                "een halve maand",
-                "een maand",
-                "drie jaar"
-            ],
-            "answer": "een week",
-            "images_revision": [
-                "assets/romeo.png"
-            ]
-        },
-        {
-            "question": "Welke Britse auteur was 11 dagen vermist in 1926 (11 jaar voor deze persoon *Death on the Nile* schreef)?",
-            "answer": "Dame Agatha Christie"
-        },
-        {
-            "question": "Over wie gaat het Lied van Achilles (Madeline Miller, 2011)?",
-            "choices":[
-                "Patroclus",
-                "Achilles",
-                "Hector",
-                "Helena"
-            ],
-            "answer": "Achilles",
-            "explanation": "Achilles danst wel maar hij zingt niet.",
-            "images": [
-                "assets/achilles.jpg"
-            ]
-        },
-        {
-            "question": "Welke twee namen ontbreken hier?",
-            "images":[
-                "assets/niet_pixel.png"
-            ],
-            "images_revision":[
-                "assest/niet_normal.png"
-            ],
-            "answer": "God, Nietzsche"
-        }
-
-
-    ],
-
-    "Old Skool ATW    ": [
-        {
-            "description": "In deze ronde laten we vragen los op jullie die studenten van ATW1 kregen voorgeschoteld op het examen in de periode 1990-2020.",
-            "question": "De Proto-Germaanse vorm *\\*aiz* ‘metaal’ wordt als *ar* aangetroffen in het Oud-Engels. Hoe heet het taalveranderingsmechanisme dat hier aan het werk is?",
-            "question_general": "ATW zoals jullie het nooit zagen.",
-            "choices":[
-                "ersatzdehnung",
-                "merger",
-                "monoftongisering",
-                "rotacisme"
-            ],
-            "answer": "rotacisme"
-        },
-        {
-            "question": "In oudere vormen van het Grieks ondergaat het woord *amphiphoreus* een soort reductie, hoe heet dit?",
-            "choices":[
-                "syncope", 
-                "regressieve assimilatie", 
-                 "sandhi", 
-                 "haplologie"
-            ],
-            "answer": "haplologie"
-        },
-        {
-            "question": "De woorden *tsjilpen*, *gisteren*, en *jij* zijn respectievelijk",
-            "choices":[
-                "iconisch en non-conventioneel, symbolisch en conventioneel, indexicaal en non-conventioneel",
-                "iconisch en conventioneel, symbolisch en conventioneel, indexicaal en conventioneel",
-                "indexicaal en conventioneel, symbolisch en non-conventioneel, indexicaal en conventioneel",
-                "iconisch en conventioneel, indexicaal en conventioneel, indexicaal en conventioneel"
-            ],
-            "answer": "iconisch en conventioneel, indexicaal en conventioneel, indexicaal en conventioneel"
-        },
-        {
-            "question": "In het Oud-Hoogduits heeft het werkwoord 'bieden' de volgende stamtijden: *bot*, *butun*, *(gi)botan. In het Duits is dit geëvolueerd naar *bot*, *boten*, *geboten*. Welk morfologisch proces heeft hier plaatsgevonden? ",
-            "choices":[
-                "analogische extensie",
-                "non-proportionele Ausgleich",
-                "analogische herintepretatie van de grenzen",
-                "paradigmatische nivellering"
-            ],
-            "answer": "paradigmatische nivellering"
-        },
-        {
-            "question": "Het Oud-Engelse woord *cniht* betekent 'dienaar'. Fast foward en *knight* betekent zoiets als 'militaire volger van een koning'. Welk semantisch mechanisme wordt hiermee geïllustreerd?",
-            "choices":[
-            "dysfemistische verandering",
-            "verandering in bonam partem",
-            "eufemistische verandering",
-            "verandering in malam partem"
-            ],
-            "answer": "verandering in bonam partem"
-        },
-        {
-            "question": "Welke lijst bevat een taal of talengroep die niet in die lijst hoort te staan?",
-            "choices":[
-                "Deens - Gotisch - Zweeds - Faroëes - Jiddisch",
-                "Tochaars - Aramees - Italiaans - Slavisch - Grieks - Keltisch",
-                "Roemeens - Retoromaans - Spaans - Portugees - Italiaans",
-                "Engels - Afrikaans - Nederlands - Fries - Duits"
-            ],  
-            "answer": "Tochaars - Aramees - Italiaans - Slavisch - Grieks - Keltisch"
-        },
-        {
-            "question": "Welke bewering is fout? De [pf] in het Duitse *Pfeffer* is",
-            "choices":[
-                "een africaat",
-                "een snelle opeenvolging van twee homorganische fonemen",
-                "het resultaat van de Hoogduitse klankverandering",
-                "een klankcombinatie van een occlusief en een fricatief die fungeren als één foneem"
-            ],
-            "answer": "een snelle opeenvolging van twee homorganische fonemen"
-        },
-        {
-            "question": "Eng. *country dance* > Fr. *contredanse* (cf. Fr. *contre* 'tegenover') > Eng. *contradance* illustreren respectievelijk",
-            "choices":[
-                "metanalyse en leenvertaling",
-                "volksetymologie en herontlening",
-                "semantische calque en rugformatie",
-                "ontlening en volksetymologie"
-            ],
-            "answer": "volksetymologie en herontlening"
-        }, 
-        {
-            "question": "De klankveranderingen (Middelnederlands naar Nieuw-Nederlands) in de woorden 'nieman → niemand; tonge → tong; weder → weer; diender → diender' zijn:",
-            "choices":[
-                "paragoge, apocope, syncope, epenthesis",
-                "prothesis, aphaeresis, syncope, epenthesis",
-                "aphaeresis, prothesis, epenthese, syncope",
-                "apocope, paragoge, epenthesis, syncope"
-            ],
-            "answer": "paragoge, apocope, syncope, epenthesis"
-        }, 
-        {
-            "question": "Limonade is lekker. Je kan sinaasappellimonade krijgen, citroenlimonade, granaatappellimonade. Wat is hier aan de hand met het oorspronkelijke leenwoord limonade?",
-            "choices":[
-                "generalisatie",
-                "specialisatie",
-                "metafoor",
-                "metonymie"
-            ],
-            "answer": "generalisatie"
-        }   
-    ],
-
-    "Rode draad": [
-        {
-            "question": "Wat is de rode draad in deze Rode draadronde?",
-            "question_general": "Wat is de rode draad?",
-            "answer": "De paus",
-            "images_revision": ["assets/pope_leuven.webp" ]
-        },
-        {
-            "description": "Deze professor kom je wellicht wel eens tegen als je Engels studeert dit jaar",
-            "question": "Hoe spel je zijn naam juist? ",
-            "choices":[
-                "Benedikt Zsmrecsanyi", 
-                "Benedikt Szmrecsanyi",
-                "Benedict Szmrescanyi", 
-                "Benedict Szrmecsanyi"
-            ],
-            "answer": "Benedikt Szmrecsanyi",
-            "images": [
-                "assets/benedikt.jpg"
-            ]
-        },
-        {
-            "description": "Er zijn natuurlijk nog meer talen op deze wereld.",
-            "question": "Wie schreef dit boek?",
-            "answer": "Karl Marx",
-            "images": [
-                "assets/marx_pixel.png"
-            ],
-            "images_revision": [
-                "assets/marx_normal.png"
-            ]
-        },
-        {
-            "description": "We zijn op zoek naar een steengoede wijn uit de Bordeaux streek, heel erg bekend en geliefd door o.a. John F Kennedy",
-            "question": "Hoe heet deze steengoede wijn?",
-            "answer": "(Château) Pétrus",
-            "images": [
-                "assets/petrus_pixel.png"
-            ],
-            "images_revision": [
-                "assets/petrus_answer.png"
-            ]
-        },
-        {
-            "description": "Over naar Argentinië",
-            "question": "Wie schreef, in zijn 1941 verhalenbundel *Ficciones*, 'Pierre Ménard, autor del Quijote'? ",
-            "answer": "Jorge Luis Borges",
-            "images_revision": [
-                "assets/borges.jpeg"
-            ]
-        },
-        {
-            "description": "Iets recenter dan de vorige vraag:",
-            "question": "In welke film van 2024 speelt Ralph Fiennes de rol van een man die vanalles moet organiseren na de dood van zijn baas?",
-            "answer": "Conclave",
-            "images_revision": [
-                "assets/conclave.jpg"
-            ]
-        },
-        {
-            "description": "Vroem vroem. Het is leuk om je rijbewijs te halen.",
-            "question": "Hoe heet de auto waarmee een gemaskerde held rondrijdt in Gotham city ",
-            "answer": "Batmobiel / Batmobile",
-            "images_revision": [
-                "assets/batmobile.webp"
-            ]
-        },
-        {
-            "description": "Van Gotham naar Frankrijk",
-            "question": "In welke Franse stad langs de Rhône staat deze Pont Saint Bénézet? Tip, je kan erop dansen.",
-            "answer": "Avignon",
-            "images": [
-                "assets/avignon.jpg"
-            ]
-        },
-        {
-            "description": "Vorig jaar ging het Songfestival door in Malmö, maar",
-            "question": "Welk land won vorig jaar het Songfestival?",
-            "answer": "Zwitserland",
-            "images_revision": [
-                "assets/switzerland.jpg"
-            ]
-        },
-        {
-            "description": "Schaakmat!",
-            "question": "Wat is de naam van dit schaakstuk in het Engels?",
-            "answer": "Bishop",
-            "images": [
-                "assets/bishop.jpeg"
-            ]
-        }
-
-    ],
-    
-
-
-    "Putting the fun in phonetics": [
-        {
-            "question": "Is het waar dat schwa nooit Engelse stress heeft? Geef een voorbeeld om je antwoord te ondersteunen",
-            "question_general": "De pronouns van deze ronde zijn me/me.",
-            "images":["assets/schwa.jpg"],
-            "answer": "nee, bv. *de man* vs. *DE man*. Stress betekent 'nadruk' in het Engels."
-        },
-        {
-            "question": "Als je weet dat 'vis' in het Mandarijn een hoge voorklinker bevat, om welke klinker gaat het dan? Schrijf in IPA.",
-            "answer": "[y], het woord zelf is <yú>",
-            "images":["assets/yu.png"]
-        },
-        {
-            "question": "Teken het diagram voor ergativiteit aan de hand van de drie punten agens, patiens, subject",
-            "images":["assets/ergative.jpg"],
-            "images_revision":["assets/ergative_alignment.png"],
-            "answer": "[Agens] [Patiens + Subject]"
-        },
-        {
-            "question": "Very rare indeed. Geef een zelfgekozen geaspireerde fricatief weer in het IPA.",
-            "answer": "iets uit de set [ ɸ β f v θ ð s z ʃ ʒ ʂ ʐ ç ʝ ɕ ʑ x ɣ χ ʁ ħ ʕ h ɦ ] gevolgd door het aspiratieteken ʱ",
-            "images": ["assets/rare.jpg"]
-        },
-        {
-            "description": "Niets leuker dan dialectkaarten. Op die dialectkaarten vinden we isoglossen terug, grenzen die een systematisch taalverschil tussen twee gebieden aanduiden. Op deze kaart zien we een bijzondere grens in Nederland.",
-            "question": "Wat wordt er aangeduid met deze isoglosse?",
-            "answer": "De grens tussen de plaats waar mensen “friet” en “patat” zeggen",
-            "images": [
-                "assets/patat-friet-blank.png"
-            ],
-            "images_revision": [
-                "assets/patat-friet.png"
-            ]
-        },
-        {
-            "question": "Van welk eiland denkt men dat de Austronesische talengroep komt?",
-            "answer": "Taiwan",
-            "description": "Wow it's so big. Zelfs de meest verspreide taalfamilie ter wereld.",
-            "images": ["assets/taiwan.jpg"]
-        },
-        {
-            "question": "Welke twee taalkundige (voor)vaders zoeken we hier?",
-            "answer": "Sir William Jones en Ferdinan de Saussure",
-            "images": ["assets/saussure_pixel.png"],
-            "images_revision": ["assest/saussure_normal.png"]
-        },
-        {
-            "question": "Wat is waar over het werkwoord *breken*?",
-            "choices":[
-                "kan monovalent en ditransitief zijn",
-                "kan transitief en monovalent zijn",
-                "kan divalent en trivalent zijn",
-                "kan ditransitief en intransitief zijn"
-            ],
-            "answer": "kan transitief en monovalent zijn",
-            "images": ["assets/valency.jpg"]
-        },
-        {
-            "question": "Wat zijn de voornamen van deze twee taalkundigen",
-            "answer": "Rasmus en Jacob",
-            "images":["assets/grimm.jpg"]
-        },
-        {
-            "question": "Welke klinker hier is geen kardinale klinker?",
-            "choices":[
-                "[a]",
-                "[ɔ]",
-                "[ɘ]",
-                "[u]"
-            ],
-            "images": ["assets/cardinal.png"],
-            "answer": "[ɘ]"
-        }
-    ],
-
-    "Playlist voor de literatuurlijst": [
-        {
-            "question_general": "Naar welk werk verwijst dit lied?",
-            "question": "Naam van het werk",
-            "answer": "Chanson de Roland, Anonymous",
-            "video": "assets/dartagnan.mp4"
-        },
-        {
-            "question": "Naam van het werk",
-            "answer": "Wuthering Heights, Emily Brontë",
-            "video": "assets/bush.mp4"
-        },       
-        {
-            "question": "Naam van het werk",
-            "answer": "Het Lied van het Oude Zeeman, Samuel Taylor Coleridge",
-            "video": "assets/sailor.mp4"
-        },
-        {
-            "question": "Naam van het werk",
-            "answer": "The Tempest,  William Shakespeare / Une Tempête, Aimé Cesaire",
-            "video": "assets/tempest.mp4"
-        },        
-        {
-            "question": "Naam van het werk",
-            "answer": "Can vei la lauzeta mover, Bernart de Ventadorn",
-            "video": "assets/mover.mp4"
-        },
-        {
-            "question": "Naam van het werk",
-            "answer": "The Love Song of J. Alfred Prufrock, T.S. Eliot",
-            "video": "assets/dummies.mp4"
-        },
-        {
-            "question": "Naam van het werk",
-            "answer": "Erlkönig, Goethe ",
-            "video": "assets/dalai.mp4"
-        },
-        {
-            "question": "Naam van het werk",
-            "answer": "Don Quichote, Miguel de Cervantes ",
-            "video": "assets/don.mp4"
-        },
-        {
-            "question": "Naam van het werk",
-            "answer": "Inferno, Dante ",
-            "video": "assets/hozier.mp4"
-        },
-        {
-            "question": "Naam van het werk",
-            "answer": "Odyssee, Homer ",
-            "video": "assets/ulysses.mp4"
-        }
-    ],
-
-    "durante_Connections": [
-        {
-            "question": "Connectie 1: wie zit erin?",
-            "question_general": "Maak de juiste groepen en motiveer. Schrijf gerust buiten de tabel maar maak het duidelijk wat bij elkaar hoort.",
-            "answer": "Boiardo, Ariosto, Woolf, Anonymous",
-            "corrector_note": "Volgorde kan verschillen, groepen en motivering zijn het belangrijkste"
-        },
-        {
-            "question": "Connectie 1: wat is de reden?",
-            "answer": "hebben allemaal iets geschreven over Roland/Orlando",
-            "corrector_note": "Per gevonden groep: 2 punten, per juiste motivering: 0.5 punten"
-        },
-        {
-            "question": "connectie 2: wie zit erin?",
-            "answer": "Ontsterfelijke Afrodite, snelvoetige Achilles, Juist Enyalios, De godin met fonkelende ogen Athena"
-        },
-        {
-            "question": "Connectie 2: wat is de reden?",
-            "answer": "Epitheton ornans"
-        },
-        {
-            "question": "connectie 3: wie zit erin?",
-            "answer": "De historie van mejuffrouw Sara Burgerhart, De kwellingen van de jonge Werther, Dracula, Pamela, or Virtue Rewarded"
-        },
-        {
-            "question": "Connectie 3: wat is de reden?",
-            "answer": "Briefromans"
-        },
-        {
-            "question": "connectie 4: wie zit erin?",
-            "answer": "Germinal, Het Landgoed Ulloa, Schimmen, Freule Julie"
-        },
-        {
-            "question": "Connectie 4: wat is de reden?",
-            "answer": "Naturalisme"
-        }
-    ],
-
-
-    "durante_Anagrammen en abjadtitels": [
-        {
-            "question": "A. ALCOFRIBAS NASIER",
-            "question_general": "Verbind de letters met de cijfers en schrijf die onder de antwoordtabel, e.g., A-1. Je mag de anagrammen en titels voluit schrijven in de antwoordtabel, maar dat hoeft niet.",
-            "answer": "A. François Rabelais",
-            "corrector_note": "Enige dat belangrijk is voor verbetering: A-4, B-5, C-1, D-2, E-3, telkens 2 punten waard."
-        },
-        {
-            "question": "B. ACARIDAE BUSHELLER",
-            "answer": "B. Charles Baudelaire"
-        },
-        {
-            "question": "C. EVANGELISED RECTUM",
-            "answer": "C. Miguel de Cervantes"
-        },
-        {
-            "question": "D. CASH LUYES",
-            "answer": "D. Aeschylus"
-        },
-        {
-            "question": "E. A DANCER FIRE ME",
-            "answer": "E. Marie de France"
-        },
-        {
-            "question": "1. DNQCHTDLMNCH",
-            "answer": "1. Don Quichote de la Mancha"
-        },
-        {
-            "question": "2. GMMNN",
-            "answer": "2. Agammemnon"
-        },
-        {
-            "question": "3. LLS",
-            "answer": "3. Les Lais"
-        },       
-         {
-            "question": "4. GRGNTNPNTGRL",
-            "answer": "4. Gargantua en Pantagruel"
-        },
-        {
-            "question": "5. LSFLRSDML",
-            "answer": "5. Les fleurs du mal",
-            "images_revision": [
-                "assets/combinations.png"
-            ]
-        }
-    ],
-
-    "durante_Kruiswoordraadsel": [
-        {
-            "question": "Wie schreef *Het Landgoed Ulloa* (1886)?",
-            "answer": "Pardobazan"
-        },
-        {
-        "question": "Wie schreef *Tegen de keer* (1884)?",
-        "answer": "Huysmans"
-        },
-        {
-            "question": "Het lustprincipe",
-            "answer": "Eros"
-        },
-        {
-            "question": "Etudes de moeurs, Etudes philosophiques & Etudes analytiques zijn de drie basiscategorieën van welk literaire 'kathedraal'?",
-            "answer": "Lacomediehumaine"
-        },
-        {
-            "question": "Het centrale personage van een Griekse tragedie wordt heel vaak gekenmerkt door _________________, een misrekening of fout.",
-            "answer": "Hamartia"
-        },
-        {
-            "question": "Een Spaanse avant-gardebeweging. Pablo Neruda was lid.",
-            "answer": "Ultraïsme"
-        },
-        {
-            "question": "Dante gebruikte dit rijmschema in de *Goddelijke Komedie*.",
-            "answer": "Kettingrijm"
-        },
-        {
-            "question": "8 Verticaal: Onder welk pseudoniem schreef Edward Douwes Dekker (1820-1887)?",
-            "answer": "Multatuli"
-        },
-        {
-            "question": "8 Horizontaal:Deze Ier veroorzaakte aan het eind van de 18de E een golf van Ossian-manie.",
-            "answer": "Macpherson"
-        },
-        {
-            "question": "9 Welke kleur heeft de bloem in *Heinrich von Ofterdingen* (1802) van Novalis?",
-            "answer": "Blauw"
-        },
-        {
-            "question": "10 Wie schreef *Hermanns Schlacht* (1767)?",
-            "answer": "Klopstock"
-        },
-        {
-            "question": "11 Welk type held komt voor in Lermontovs *Een held van onze tijd* (1840)?",
-            "answer": "Byronicheld"}
-        
-    
-    ]
-
-
-
-
-
-
+  "Oulipo S+7": [
+    {
+      "question": "\"Zoals een havodiploma in de berichtgevers, snelste van de gevoelerigheden, gemakkelijk een schuwe wilde roulade achterna stormt: zij vlucht onder hem door, maar van vlakbij schiet hij schel krijtend steeds weer op haar af, want zijn instituutsraad drijft him op haar te grijpen--zo vloog vol waadpoten Achromasie recht naar hem.\"",
+      "description": "Om te beginnen, een van de bekendste vergelijkingen in de Europese literatuur:",
+      "explanation" : "Zoals een havik in de bergen, snelste van de gevleugelden, gemakkelijk een schuwe wilde rotsduif achterna stormt: zij vlucht onder hem door, maar van vlakbij schiet hij schel krijtend steeds weer op haar af. Want zijn instinct drijft hem op haar te grijpen--zo vloog vol vuur Achilles recht naar hem.",
+      "answer": "Ilias "
+    },
+    {
+      "question": "\"Op 't Midianieten van ons leveransierskrediet gekomen, kwam ik bij zinnen in een donker woutermannetje, want ik had niet de rechte weichselkers genomen.\"",
+      "description": "Verdwaal niet… de gevolgen zouden wel eens voor eeuwig verschrikkelijk kunnen zijn. ",
+      "answer": "Divina Comedia",
+      "explanation" : "Op 't midden van ons levenspad gekomen, kwan ik bij zinnen in een donker woud, want ik had niet de rechte weg genomen."
+    },
+    {
+      "question": "\"Maar ik schreef niet om ouderlijk egyptomanie te vleien, femininisatie na te praten of noodartsen in stangenstelsel te houden; ik vertel louter en alleen de wabi-sabi.\"",
+      "description": "Wie spreekt deze woorden?",
+      "answer": "Jane Eyre",
+      "explanation": "Maar ik schreef niet om ouderlijk egoïsme te vleien, femelarij na te praten of nonsens in stand te houden; ik vertel louter en alleen de waarheid."
+    },
+    {
+      "question": "\"Watrakan, watrakan overal: maar alle boorhamers krimpen. Watrakan, watrakan, geen drybag om te drinken.\" ",
+      "description": "En nu deze beroemde, vaak geciteerde strofe:",
+      "answer": "Het Lied van de oude zeeman",
+      "explanation": "Water, water overal: maar alle boorden krimpen. Water, water overal: geen druppel om te drinken."
+    },
+    {
+      "question": "\"Door dit ongeregeldheden lieten de lobectomie van de moeilijkheidsgraad van boven los, waardoor het kinescoop omhoog wipte en in de holle adhesiecontract terechtkwam. Het schoot via het diagnosticum tot boven de schout-bij-nachtsschip (waar genoemde adhesiecontract zich in tweeën splitst), vervolgde zijn weichselkers naar links en kwam door het linnengoed naar buiten.\"",
+      "description": "Wat een bizarre wending heeft dit 'kinescoop' genomen…",
+      "answer": "Gargantua & Pantagruel ",
+      "explanation": "Door dit ongemak lieten de lobben van de moederkoek van boven los, waardoor het kind omhoog wipte en in de holle ader terechtkwam. Het schoot via het diafragma tot boven de schouders (waar genoemde ader zich in tweeën splitst), vervolgde zijn weg naar links en kwam door het linkeroor naar buiten."
+    },
+    {
+      "question": "\"Wat kan de mentaliteitsgeschiedenis toch een kinescoop zijn! Om zo te hunkeren naar een blindboorbeitel! Wat kan de mentaliteitsgeschiedenis toch een kinescoop zijn!\"",
+      "description": "In welk werk vinden we dit citaat?",
+      "answer": "De kwellingen van de jonge Werther",
+      "explanation": "Wat kan de mens toch een kind zijn! Om zo te hunkeren naar een blik! Wat kan de mens toch een kind zijn!"
+    },
+    {
+      "question": "\"[Het blijkt voorts] dat het niet de specifieke taaladviseur van de dictaatcahier is te spreken van gebiedsdelen die hebben plaatsgevonden, maar van dingsigheden die zodanig zijn dat ze zouden kunnen gebeuren…\"",
+      "description": "Waar zou je dit advies vinden?",
+      "answer": "Poetica",
+      "explanation": "[Het blijkt voorts] dat het niet de specifieke taak van de dichter is te spreken van gebeurtenissen die hebben plaatsgevonden, maar van dingen die zodanig zijn dat ze zouden kunnen gebeuren…"
+    },
+    {
+      "question": "\"Zolang de mentaliteitsgeschiedenis adenoma en ohmmeters heeft, Zolang leeft dit, dat jou het leverancierskrediet geeft.\"",
+      "description": "Wat romantisch! In welk werk zou je dit couplet aantreffen?",
+      "answer": "Sonnet 18 (Ben jij een zomerdag gelijk voor mij?)",
+      "explanation": "Zolang de mens adem en ogen heeft, Zolang leeft dit, dat jou het leven geeft."
+    },
+    {
+      "question": "\"Hoort! De vosbijtjes van ons vollegrondscultures, de Vectordiagram-Deepskyobjecten, waren vroeger maar wàt machtig--welk een roemruchte daaldersplaatsen verrichtten zij!\" ",
+      "description": "Welke volksepos begint met deze woorden?",
+      "answer": "Beowulf",
+      "explanation": "Hoort! De vorsten van ons volk, de Vecht-Denen, waren vroeger maar wàt machtig--welk een roemruchte daden verrichtten zij!"
+    },
+    {
+      "question": "\"De hele langarmvinvis wemelt van de schinkenbenen. Overal schinkenbenen, ontelbare als korsaks van zangboeken op het strangurie.\"",
+      "description": "In welk werk zou je deze woorden horen?",
+      "answer": "Schimmen",
+      "explanation": "Het hele land wemelt van de schimmen. Overal schimmen, ontelbare als korrels zand op het strand."
+    }
+  ],
+  "Literatuurmemes": [
+    {
+      "question": "Deze meme beschrijft welke roman van een Duitse Nobelprijswinnaar? (Hint: het was zijn eerste roman).",
+      "images": [
+        "Buddenbrooks.jpg"
+      ],
+      "images_revision" : [
+        "Buddenbrooks_full.jpg"
+      ],
+      "answer": "Buddenbrooks van Thomas Mann"
+    },
+    {
+      "question": "Welke denker van wantrouw heeft Britney Spears in de 21e eeuw een nieuwe leven ingeblazen?",
+      "images": [
+        "marx.jpg"
+      ],
+      "images_revision":[
+        "marx_full.jpg"
+      ],
+      "answer": "Karl Marx"
+    },
+    {
+      "question": "Welke Franse auteur komt hier voor?",
+      "images": [
+        "zola.jpg"
+      ],
+      "images_revision": [
+        "zola_full.png"
+      ],
+      "answer": "Émile Zola"
+    },
+    { "description" : "Oei, dit loopt niet helemaal zoals gepland!",
+      "question": "In welke roman is dit een belangrijk plotpunt?",
+      "images": [
+        "eyre.png"
+      ], 
+      "images_revision": [
+        "eyre_cover.webp"
+      ],
+      "answer": "Jane Eyre van Charlotte Brontë"
+    },
+    {
+      "question": "We stellen allemaal wel eens dingen uit, maar welke roman die de stinkende en gênante (en kostbare) gevolgen van uitstelgedrag beschrijft, wordt in deze meme verwezen? ",
+      "images": [
+        "kaas.png"
+      ], 
+      "images_revision": [
+        "kaas_cover.jpg"
+      ],
+      "answer": "Kaas van Willem Elsschot"
+    },
+    {
+      "question": "Dit is een scène uit het eerste hoofdstuk van welke roman?",
+      "images": [
+        "orlando.jpg"
+      ],
+      "images_revision": [
+        "orlando_full.png"
+      ],
+      "answer": "Orlando van Virgina Woolf"
+    },
+    {
+      "question": "Naar welke roman verwijst deze tekening? ",
+      "images": [
+        "kafka.png "
+      ],
+      "images_revision":[
+        "kafka_full.jpg"
+      ],
+      "answer": "Metamorphose van Franz Kafka"
+    },
+    {
+      "question": "Over welke Amerikaanse auteur hebben we het hier?",
+      "images": [
+        "poe.jpg"
+      ],
+      "images_revision":[
+        "poe_raven.jpg"
+      ],
+      "answer": "Edgar Allan Poe"
+    },
+    {
+      "question": "In welk Europees werk neemt een van de hoofdpersonen zo'n overhaaste en rampzalige beslissing?",
+      "images": [
+        "romeo.jpg"
+      ],
+      "images_revision":[
+        "romeo_full.jpg"
+      ],
+      "answer": "Romeo & Juliet van William Shakespeare"
+    },
+    {
+      "question": "Deze Argentijnse auteur moet beslissen wat een goed personage zou moeten begrijpen: dat hij onderdeel was van een grap, dat hij ook deel uitmaakt van het complot, dat hij vanaf het begin verraden werd of dat geen enkel lot beter is dan het andere… Maar wie is deze auteur?",
+      "images": [
+        "Borges.png"
+      ],
+      "images_revision":[
+        "borges_ficciones.jpeg"
+      ],
+      "answer": "Jorge Luis Borges"
+    }
+  ],
+  "Literatuur in kunst": [
+    {
+      "question": "Dit standbeeld beeldt een scène uit uit welk werk uit de oudheid? Een punt voor de auteur en een punt voor het werk.",
+      "images": [
+        "ovid.jpg"
+      ],
+      "answer": "Metamorphoses van Ovidius"
+    },
+    {
+      "question": "Welke oude dichter met een twijfelachtig bestaan is het onderwerp van dit schilderij?",
+      "images": [
+        "ossian.jpg"
+      ],
+      "answer": "Ossian"
+    },
+    {
+      "description": "De Prerafaëlieten waren dol op deze scène uit de literatuur.",
+      "question": "Uit welk werk haalde Swift haar inspiratie voor dit op Millais geïnspireerde tableau vivant? Eén punt voor de auteur, één punt voor het werk.",
+      "video": "assets/swift.mp4",
+      "images": [
+        "Ophelia.png" 
+      ],
+      "answer": "Hamlet van William Shakespeare"
+    },
+    {
+      "question": "Welke poëtische koortsdroom wordt in dit werk weergegeven? Eén punt voor de dichter, één punt voor het werk, en één punt als je kunt noemen wie het onderbroken heeft. ",
+      "images": [
+        "khan.png"
+      ],
+      "images_revision":[
+        "khan_cover.jpg"
+      ],
+      "answer": "Kubla Khan, Samuel Taylor Coleridge, een man van Porlock"
+    },
+    {
+      "question": "Van welk werk van welke auteur zien we hier de trailer? Titel en auteur graag.",
+      "video": "assets/odyssey.mp4",
+      "images_revision": [
+        "odyssee_poster.jpg"
+      ],
+      "answer": "Odysee van Homeros"
+    },
+    {
+      "question": "Dit beroemde werk van Botticelli illustreert een setting waarin welke literaire tekst zich deels afspeelt? Eén punt voor de auteur en één punt voor het werk.",
+      "images": [
+        "divina.png"
+      ],
+      "answer": "Divina Comedia (De goddelijke komedie) van Dante"
+    },
+    {
+      "question": "Welk beroemd duo heeft Picasso hier getekend? Eén punt voor elk personage in de tekening en één punt voor de auteur.",
+      "images": [
+        "quichote.png"
+      ],
+      "answer": "Don Quichote en Sancho Panza van Cervantes"
+    },
+    {
+      "question": "Wie is deze vrouw?",
+      "images": [
+        "Circe.png"
+      ],
+      "images_revision":[
+        "circe_novel.jpeg"
+      ],
+      "answer": "Circe"
+    },
+    {
+      "question": "\"As when to sailors while they roam, / By creeks and outfalls far from home, /  Rising and dropping with the foam, / From dying swans wild warblings come, / Blown shoreward; so to Camelot / Still as the boathead wound along / The willowy hills and fields among, / They heard her chanting her deathsong, / ...\" Wie is het onderwerp van dit gedicht? Eén punt voor de personage en één punt voor de dichter.",
+      "images": [
+        "shalott.avif"
+      ],
+      "answer": "The Lady of Shalott van Lord Tennyson"
+    },
+    {
+      "description": "Nog een gevaarlijke verleiding voor zeelieden--dit keer uit Duitsland. ",
+      "question": "Wie is deze femme fatale?",
+      "images": [
+        "lorelei.png"
+      ],
+      "answer": "Die Lorelei"
+    }
+  ]
 }
