@@ -2,7 +2,7 @@
   "Oulipo S+7": [
     {
       "question": "\"Zoals een havodiploma in de berichtgevers, snelste van de gevoelerigheden, gemakkelijk een schuwe wilde roulade achterna stormt: zij vlucht onder hem door, maar van vlakbij schiet hij schel krijtend steeds weer op haar af, want zijn instituutsraad drijft him op haar te grijpen--zo vloog vol waadpoten Achromasie recht naar hem.\"",
-      "description": "Om te beginnen, een van de bekendste vergelijkingen in de Europese literatuur:",
+      "description": "Oulipo is een los verband van experimentele schrijvers en mathematici in de jaren 1960. In hun experimenten staat de contrainte centraal, d.i. een zelfopgelegde beperking die moet worden overwonnen, zoals bv. het verbod om de letter [e] te gebruiken. Een ander voorbeeld van een contrainte is  S+7, waarin elk zelfstandig naamwoord van een tekst vervangen door het zevende zelfstandig naamwoord dat erop volgt in een bepaald woordenboek. Deze ronde bestaat uit citaten uit beroemde werken uit de Europese literatuur waarin de S+7-beperking is toegepast, met behulp van het online woordenboek van Van Dale. Wij zijn op zoek naar de titel van het werk waar het citaat vandaan komt. Om te beginnen, een van de bekendste vergelijkingen in de Europese literatuur:",
       "explanation" : "Zoals een havik in de bergen, snelste van de gevleugelden, gemakkelijk een schuwe wilde rotsduif achterna stormt: zij vlucht onder hem door, maar van vlakbij schiet hij schel krijtend steeds weer op haar af. Want zijn instinct drijft hem op haar te grijpen--zo vloog vol vuur Achilles recht naar hem.",
       "answer": "Ilias "
     },
@@ -63,118 +63,120 @@
   ],
   "Literatuurmemes": [
     {
+      "description": "In deze ronde laten we een meme zien die verwijst naar een auteur OF een literair werk.  Sommige herkenbare elementen zijn verborgen.",
       "question": "Deze meme beschrijft welke roman van een Duitse Nobelprijswinnaar? (Hint: het was zijn eerste roman).",
       "images": [
-        "Buddenbrooks.jpg"
+        "assets/Buddenbrooks.jpg"
       ],
       "images_revision" : [
-        "Buddenbrooks_full.jpg"
+        "assets/Buddenbrooks_full.jpg"
       ],
       "answer": "Buddenbrooks van Thomas Mann"
     },
     {
       "question": "Welke denker van wantrouw heeft Britney Spears in de 21e eeuw een nieuwe leven ingeblazen?",
       "images": [
-        "marx.jpg"
+        "assets/marx.jpg"
       ],
       "images_revision":[
-        "marx_full.jpg"
+        "assets/marx_full.jpg"
       ],
       "answer": "Karl Marx"
     },
     {
       "question": "Welke Franse auteur komt hier voor?",
       "images": [
-        "zola.jpg"
+        "assets/zola.jpg"
       ],
       "images_revision": [
-        "zola_full.png"
+        "assets/zola_full.png"
       ],
       "answer": "Émile Zola"
     },
     { "description" : "Oei, dit loopt niet helemaal zoals gepland!",
       "question": "In welke roman is dit een belangrijk plotpunt?",
       "images": [
-        "eyre.png"
+        "assets/eyre.png"
       ], 
       "images_revision": [
-        "eyre_cover.webp"
+        "assets/eyre_cover.webp"
       ],
       "answer": "Jane Eyre van Charlotte Brontë"
     },
     {
       "question": "We stellen allemaal wel eens dingen uit, maar welke roman die de stinkende en gênante (en kostbare) gevolgen van uitstelgedrag beschrijft, wordt in deze meme verwezen? ",
       "images": [
-        "kaas.png"
+        "assets/kaas.png"
       ], 
       "images_revision": [
-        "kaas_cover.jpg"
+        "assets/kaas_cover.jpg"
       ],
       "answer": "Kaas van Willem Elsschot"
     },
     {
       "question": "Dit is een scène uit het eerste hoofdstuk van welke roman?",
       "images": [
-        "orlando.jpg"
+        "assets/orlando.jpg"
       ],
       "images_revision": [
-        "orlando_full.png"
+        "assets/orlando_full.png"
       ],
       "answer": "Orlando van Virgina Woolf"
     },
     {
       "question": "Naar welke roman verwijst deze tekening? ",
       "images": [
-        "kafka.png "
+        "assets/kafka.png "
       ],
       "images_revision":[
-        "kafka_full.jpg"
+        "assets/kafka_full.jpg"
       ],
       "answer": "Metamorphose van Franz Kafka"
     },
     {
       "question": "Over welke Amerikaanse auteur hebben we het hier?",
       "images": [
-        "poe.jpg"
+        "assets/poe.jpg"
       ],
       "images_revision":[
-        "poe_raven.jpg"
+        "assets/poe_raven.jpg"
       ],
       "answer": "Edgar Allan Poe"
     },
     {
       "question": "In welk Europees werk neemt een van de hoofdpersonen zo'n overhaaste en rampzalige beslissing?",
       "images": [
-        "romeo.jpg"
+        "assets/romeo.jpg"
       ],
       "images_revision":[
-        "romeo_full.jpg"
+        "assets/romeo_full.jpg"
       ],
       "answer": "Romeo & Juliet van William Shakespeare"
     },
     {
       "question": "Deze Argentijnse auteur moet beslissen wat een goed personage zou moeten begrijpen: dat hij onderdeel was van een grap, dat hij ook deel uitmaakt van het complot, dat hij vanaf het begin verraden werd of dat geen enkel lot beter is dan het andere… Maar wie is deze auteur?",
       "images": [
-        "Borges.png"
+        "assets/Borges.png"
       ],
       "images_revision":[
-        "borges_ficciones.jpeg"
+        "assets/borges_ficciones.jpeg"
       ],
       "answer": "Jorge Luis Borges"
     }
   ],
   "Literatuur in kunst": [
     {
+      "description": "En nu iets voor de kunstwetenshappers onder ons! Bij elke vraag in deze ronde zie je een kunstwerk dat een auteur, scène of een concept uit de literatuur uitbeeldt. Hoeveel kun je er herkennen?",
       "question": "Dit standbeeld beeldt een scène uit uit welk werk uit de oudheid? Een punt voor de auteur en een punt voor het werk.",
       "images": [
-        "ovid.jpg"
+        "assets/ovid.jpg"
       ],
       "answer": "Metamorphoses van Ovidius"
     },
     {
       "question": "Welke oude dichter met een twijfelachtig bestaan is het onderwerp van dit schilderij?",
       "images": [
-        "ossian.jpg"
+        "assets/ossian.jpg"
       ],
       "answer": "Ossian"
     },
@@ -183,17 +185,17 @@
       "question": "Uit welk werk haalde Swift haar inspiratie voor dit op Millais geïnspireerde tableau vivant? Eén punt voor de auteur, één punt voor het werk.",
       "video": "assets/swift.mp4",
       "images": [
-        "Ophelia.png" 
+        "assets/Ophelia.png" 
       ],
       "answer": "Hamlet van William Shakespeare"
     },
     {
       "question": "Welke poëtische koortsdroom wordt in dit werk weergegeven? Eén punt voor de dichter, één punt voor het werk, en één punt als je kunt noemen wie het onderbroken heeft. ",
       "images": [
-        "khan.png"
+        "assets/khan.png"
       ],
       "images_revision":[
-        "khan_cover.jpg"
+        "assets/khan_cover.jpg"
       ],
       "answer": "Kubla Khan, Samuel Taylor Coleridge, een man van Porlock"
     },
@@ -201,38 +203,38 @@
       "question": "Van welk werk van welke auteur zien we hier de trailer? Titel en auteur graag.",
       "video": "assets/odyssey.mp4",
       "images_revision": [
-        "odyssee_poster.jpg"
+        "assets/odyssee_poster.jpg"
       ],
       "answer": "Odysee van Homeros"
     },
     {
       "question": "Dit beroemde werk van Botticelli illustreert een setting waarin welke literaire tekst zich deels afspeelt? Eén punt voor de auteur en één punt voor het werk.",
       "images": [
-        "divina.png"
+        "assets/divina.png"
       ],
       "answer": "Divina Comedia (De goddelijke komedie) van Dante"
     },
     {
       "question": "Welk beroemd duo heeft Picasso hier getekend? Eén punt voor elk personage in de tekening en één punt voor de auteur.",
       "images": [
-        "quichote.png"
+        "assets/quichote.png"
       ],
       "answer": "Don Quichote en Sancho Panza van Cervantes"
     },
     {
       "question": "Wie is deze vrouw?",
       "images": [
-        "Circe.png"
+        "assets/Circe.png"
       ],
       "images_revision":[
-        "circe_novel.jpeg"
+        "assets/circe_novel.jpeg"
       ],
       "answer": "Circe"
     },
     {
       "question": "\"As when to sailors while they roam, / By creeks and outfalls far from home, /  Rising and dropping with the foam, / From dying swans wild warblings come, / Blown shoreward; so to Camelot / Still as the boathead wound along / The willowy hills and fields among, / They heard her chanting her deathsong, / ...\" Wie is het onderwerp van dit gedicht? Eén punt voor de personage en één punt voor de dichter.",
       "images": [
-        "shalott.avif"
+        "assets/shalott.avif"
       ],
       "answer": "The Lady of Shalott van Lord Tennyson"
     },
@@ -240,9 +242,417 @@
       "description": "Nog een gevaarlijke verleiding voor zeelieden--dit keer uit Duitsland. ",
       "question": "Wie is deze femme fatale?",
       "images": [
-        "lorelei.png"
+        "assets/lorelei.png"
       ],
       "answer": "Die Lorelei"
     }
-  ]
+  ],
+ "600 jaar KU Leuven trivia time": [
+    {
+        "description": "Hoera KU Leuven werd 600 jaar! Maar wat weten jullie eigenlijk over de universiteit waar jullie net aan zijn begonnen? Hier zijn enkele vragen uit deze speciale editie van Trivial Pursuit. ",
+        "question": "Wat bevat meer bètacaroteen: rauwe wortelen of gekookte wortelen?",
+        "choices": ["Rauwe wortelen", "Gekookte wortelen"],
+        "answer": "Gekookte wortelen",
+        "images": [
+            "assets/carrots.jpg"
+        ]
+    },
+    {
+        "description": "Charles Darwin schreef *On the Origin of Species* nadat hij een reis had gemaakt naar de Galápagoseilanden.",
+        "question": "Met welk schip maakte Darwin zijn reis?",
+        "answer": "HMS Beagle",
+        "images": [
+            "assets/beagle.png"
+        ],
+        "corrector_note": "Beagle = OK"
+    },
+    {
+        "description": "Een *bull market* is een periode waarin aandelenkoersen over het algemeen stijgen.",
+        "question": "Hoe heet een periode van daling op de aandelenmarkt?",
+        "answer": "Bear market",
+        "images": [
+            "assets/bull.jpg"
+        ],
+        "images_revision": [
+            "assets/bullbear.jpg"
+        ]
+    },
+    {
+        "question": "Wat noemde Karl Marx het 'opium van het volk'?",
+        "answer": "Religie",
+        "images": [
+            "assets/marx.png"
+        ]
+    },
+    {
+        "description": "Er hangen veel klokken in het carillon van de universiteitsbibliotheek in Leuven.",
+        "question": "Hoeveel klokken heeft het carillon van de Universiteitsbibliotheek?",
+        "answer": "63",
+        "choices": [
+            "63",
+            "32",
+            "98"
+        ],
+        "images": [
+            "assets/library.jpg"
+        ]
+    },
+    {
+        "question": "Welke Leuvense professor wordt beschouwd als de 'vader van de oerknaltheorie'?",
+        "answer": "Georges Lemaître",
+        "images": [
+            "assets/bbt.webp"
+        ],
+        "images_revision": [
+            "assets/lemaitre.jpg"
+        ]
+    },
+    {
+        "question": "Welke twee wetenschappers kregen samen met Wilkins in 1962 de Nobelprijs voor de ontdekking van de structuur van DNA?",
+        "answer": "James Watson en Francis Crick",
+        "images": [
+            "assets/watsoncrick.jpg"
+        ],
+        "corrector_note": "elke naam = 1 punt"
+    },
+    {
+        "question": "Hoe wordt de Japanse honingboom in de binnenplaats van het Leuvense Atrechtcollege ook genoemd?",
+        "answer": "De boom van 't groot verdriet (The tree of great sorrow)",
+        "images": [
+            "assets/boom.jpg"
+        ]
+    },
+    {
+        "question": "Welke Zweedse wetenschapper maakte de binomiale nomenclatuur gangbaar in de biologie?",
+        "answer": "Carl Linnaeus",
+        "images": [
+            "assets/linnaeus.webp"
+        ]
+    },
+    {
+        "question": "Wat is de wetenschappelijke term voor een oogarts?",
+        "answer": "oftalmoloog",
+        "images": [
+            "assets/eyedoctor.jpg"
+        ]
+    }
+],
+"Taalkundememes": [
+      {
+        "description": "Tijd voor wat serieuzere memes. Hopelijk kennen jullie je IPA nog vanbuiten",
+        "question": "Wat is het ontbrekende woord?",
+        "answer": "schwa (Schmeller 1820)",
+        "corrector_answer": "schwa",
+        "images": [
+            "assets/schwa1.png"
+        ],
+        "images_revision": [
+            "assets/schwa2.png"
+        ]
+    },
+    {
+        "description": "Van vreemde vogels gesproken.",
+        "question": "Wat is hier het ontbrekende woord?",
+        "answer": "Dit is een wug. Nu is er nog een. Er zijn er twee. Er zijn twee (ZEG HET MET ME MEE)! (Gleason 1958)",
+        "corrector_answer": "wug",
+        "images": [
+            "assets/wug1.png"
+        ],
+        "images_revision": [
+            "assets/wug2.png"
+        ]
+    },
+
+    {
+        "description": "Bij ATW hebben we het ook over paradigma's gehad.",
+        "question": "Van welke taal is dit het paradigma van het bepaald lidwoord?",
+        "answer": "Engels",
+        "explanation": "Als je Duits hebt geantwoord, ben je in de val getrapt.",
+        "images": [
+            "assets/the.jpg"
+        ]
+    },
+    {
+        "description": "Toen ik in China was, deelde ik een kamer met een charmante Tsjech genaamd Jan. Tsjechië staat ook bekend als het land van componist Dvořák.",
+        "question": "Wat is de naam van het diakritisch teken op de <ř> hier?",
+        "answer": "macron / haček",
+        "images": [
+            "assets/hacek.jpg"
+        ]
+    },
+    {
+        "description": "Het is leuk om jullie mouth skills te zien verbeteren in een paar weken. Alle klinkers komen daarbij aan bod. ",
+        "question": "Welke hoge voorklinker zien we hier? Antwoord in IPA.",
+        "answer": "[y]",
+        "corrector_note": "[] niet noodzakelijk",
+        "images": [
+            "assets/yu.png"
+        ]
+    },
+    {
+        "description": "Je hebt deze lelijke wezens misschien al op rugzakken gezien. Weinigen weten dat de hype ook taalkundig gemotiveerd is.",
+        "question": "Welke linguïstische binaire tegenstelling wordt hier afgebeeld?",
+        "answer": "bouba / kiki (bubu/kiki) [sound symbolism] (Köhler 1926; Ramachandran and Hubbard 2001)",
+        "corrector_answer": "bouba / kiki OF bubu / kiki",
+        "explanation": "bouba is een verzonnen woord dat rond en groot aanvoelt, terwijl kiki juist puntig en klein aanvoelt.",
+        "images": [
+            "assets/labubu.png"
+        ],
+        "images_revision": [
+            "assets/lakiki.png"
+        ]
+    },
+    {
+        "description": "Het is leuk om mensen op het verkeerde been te zetten. ",
+        "question": "Hoe heet het perceptiegerelateerde fenomeen waardoor we denken dat /ga/ + /ba/ = /da/?",
+        "answer": "McGurk-effect (McGurk en MacDonald 1976)",
+        "corrector_answer": "McGurk-effect",
+        "images": [
+            "assets/mcgurk1.png"
+        ],
+        "images_revision": [
+            "assets/mcgurk2.png"
+        ]
+    },
+    {
+        "description": "Je hebt waarschijnlijk gemerkt dat deze ronde gemakkelijk is, vooral als je chronisch online bent.",
+        "question": "Welk woord is hier weggelaten?",
+        "answer": "PIE",
+        "explanation": "PIE kan staan voor Proto-Indo-European. Of gewoon een heerlijke taart.",
+        "images": [
+            "assets/pie1.png"
+        ],
+        "images_revision": [
+            "assets/pie2.png"
+        ]
+    },
+    {
+        "description": "Het taalkundige teken is grotendeels arbitrair (de Saussure). Maar dat geldt ook voor interpunctie.",
+        "question": "Wat betekent <!> voor een taalkundige (in de fonetiek)?",
+        "answer": "! is een (post)alveolaire klik!",
+        "corrector_answer": "klik",
+        "corrector_note": "klik = OK",
+        "images": [
+            "assets/click.png"
+        ],
+        "images_revision": [
+            "assets/click2.png"
+        ]
+    },
+    {
+        "description": "Tot slot nog wat satire om deze ronde af te sluiten.",
+        "question": "Met welk idee wordt in deze meme de draak gestoken?",
+        "answer": "Sapir-Whorf-hypothese",
+        "explanation": "De sterke versie van deze hypothese stelt dat taal het denken zo beïnvloedt dat het bijna onmogelijk wordt om de wereld op een andere manier te zien dan via je eigen taal. Bijvoorbeeld het idee dat Eskimo’s gevoeliger zijn voor sneeuwverschijnselen omdat ze er meer woorden voor hebben. In de zwakke versie zijn er slechts lichte cognitieve aanwijzingen richting bepaalde voorkeuren, zoals bij het denken over kleuren (bijv. Russisch blauw).",
+        "images": [
+            "assets/sapir.png"
+        ],
+        "images_revision": [
+            "assets/whorf.png"
+        ]
+    }
+],
+  "Old Skool ATW    ": [
+        {
+            "description": "In deze ronde laten we vragen los op jullie die studenten van ATW1 kregen voorgeschoteld op het examen in de periode 1990-2020.",
+            "question": "De Proto-Germaanse vorm *\\*aiz* ‘metaal’ wordt als *ar* aangetroffen in het Oud-Engels. Hoe heet het taalveranderingsmechanisme dat hier aan het werk is?",
+            "question_general": "ATW zoals jullie het nooit zagen.",
+            "choices":[
+                "ersatzdehnung",
+                "merger",
+                "monoftongisering",
+                "rotacisme"
+            ],
+            "answer": "rotacisme"
+        },
+        {
+            "question": "In oudere vormen van het Grieks ondergaat het woord *amphiphoreus* een soort reductie, hoe heet dit?",
+            "choices":[
+                "syncope", 
+                "regressieve assimilatie", 
+                 "sandhi", 
+                 "haplologie"
+            ],
+            "answer": "haplologie"
+        },
+        {
+            "question": "De woorden *tsjilpen*, *gisteren*, en *jij* zijn respectievelijk",
+            "choices":[
+                "iconisch en non-conventioneel, symbolisch en conventioneel, indexicaal en non-conventioneel",
+                "iconisch en conventioneel, symbolisch en conventioneel, indexicaal en conventioneel",
+                "indexicaal en conventioneel, symbolisch en non-conventioneel, indexicaal en conventioneel",
+                "iconisch en conventioneel, indexicaal en conventioneel, indexicaal en conventioneel"
+            ],
+            "answer": "iconisch en conventioneel, indexicaal en conventioneel, indexicaal en conventioneel"
+        },
+        {
+            "question": "In het Oud-Hoogduits heeft het werkwoord 'bieden' de volgende stamtijden: *bot*, *butun*, *(gi)botan. In het Duits is dit geëvolueerd naar *bot*, *boten*, *geboten*. Welk morfologisch proces heeft hier plaatsgevonden? ",
+            "choices":[
+                "analogische extensie",
+                "non-proportionele Ausgleich",
+                "analogische herintepretatie van de grenzen",
+                "paradigmatische nivellering"
+            ],
+            "answer": "paradigmatische nivellering"
+        },
+        {
+            "question": "Het Oud-Engelse woord *cniht* betekent 'dienaar'. Fast foward en *knight* betekent zoiets als 'militaire volger van een koning'. Welk semantisch mechanisme wordt hiermee geïllustreerd?",
+            "choices":[
+            "dysfemistische verandering",
+            "verandering in bonam partem",
+            "eufemistische verandering",
+            "verandering in malam partem"
+            ],
+            "answer": "verandering in bonam partem"
+        },
+        {
+            "question": "Welke lijst bevat een taal of talengroep die niet in die lijst hoort te staan?",
+            "choices":[
+                "Deens - Gotisch - Zweeds - Faroëes - Jiddisch",
+                "Tochaars - Aramees - Italiaans - Slavisch - Grieks - Keltisch",
+                "Roemeens - Retoromaans - Spaans - Portugees - Italiaans",
+                "Engels - Afrikaans - Nederlands - Fries - Duits"
+            ],  
+            "answer": "Tochaars - Aramees - Italiaans - Slavisch - Grieks - Keltisch"
+        },
+        {
+            "question": "Welke bewering is fout? De [pf] in het Duitse *Pfeffer* is",
+            "choices":[
+                "een africaat",
+                "een snelle opeenvolging van twee homorganische fonemen",
+                "het resultaat van de Hoogduitse klankverandering",
+                "een klankcombinatie van een occlusief en een fricatief die fungeren als één foneem"
+            ],
+            "answer": "een snelle opeenvolging van twee homorganische fonemen"
+        },
+        {
+            "question": "Eng. *country dance* > Fr. *contredanse* (cf. Fr. *contre* 'tegenover') > Eng. *contradance* illustreren respectievelijk",
+            "choices":[
+                "metanalyse en leenvertaling",
+                "volksetymologie en herontlening",
+                "semantische calque en rugformatie",
+                "ontlening en volksetymologie"
+            ],
+            "answer": "volksetymologie en herontlening"
+        }, 
+        {
+            "question": "De klankveranderingen (Middelnederlands naar Nieuw-Nederlands) in de woorden 'nieman → niemand; tonge → tong; weder → weer; diender → diender' zijn:",
+            "choices":[
+                "paragoge, apocope, syncope, epenthesis",
+                "prothesis, aphaeresis, syncope, epenthesis",
+                "aphaeresis, prothesis, epenthese, syncope",
+                "apocope, paragoge, epenthesis, syncope"
+            ],
+            "answer": "paragoge, apocope, syncope, epenthesis"
+        }, 
+        {
+            "question": "Limonade is lekker. Je kan sinaasappellimonade krijgen, citroenlimonade, granaatappellimonade. Wat is hier aan de hand met het oorspronkelijke leenwoord limonade?",
+            "choices":[
+                "generalisatie",
+                "specialisatie",
+                "metafoor",
+                "metonymie"
+            ],
+            "answer": "generalisatie"
+        }   
+    ],
+"muziekronde": [
+    {
+        "description": "Thomas en ik houden erg van muziekrondes, dus hier is onze verplichte muziekronde. We beginnen graag met enkele one-hit wonders.",
+        "question": "Welk nummer is dit? Geef de titel en de artiest.",
+        "answer": "Blue - Eiffel 65",
+        "audio": "assets/blue-q.mp3",
+        "audio_revision": "assets/blue-a.mp3",
+        "images_revision": ["assets/blue.jpg"],
+        "corrector_note": "1 punt artiest, 1 punt titel"
+    },
+
+    {
+        "description": "Toen ik nog een kleine Anthe was, was ik dol op Alvin and the Chipmunks. Ik heb onlangs een paar van mijn oude cd’s teruggevonden en ik wil die chipmunk-vreugde graag met jullie delen.",
+        "question": "Welk nummer is hier gechipmunkified? Titel en artiest graag!",
+        "answer": "Bad Day - Daniel Powter",
+        "audio": "assets/bad-day-q.mp3",
+        "audio_revision": "assets/bad-day-a.mp3",
+        "images": ["assets/alvin-chipmunks.jpg"],
+        "corrector_note": "1 punt artiest, 1 punt titel"
+     },
+
+    {
+        "description": "Miauw miauw miauw miauw miauw miauw miauw. Miauw miauw miauw miauw miauw. Miauw miauw miauw miauw.",
+        "question": "Miauw miauw miauw miauw miauw? Titel miauw artiest miauw!",
+        "answer": "Unwritten - Natasha Bedingfield",
+        "audio": "assets/unwritten-q.mp3",
+        "audio_revision": "assets/unwritten-a.mp3",
+        "images": ["assets/gizmo.jpg"],
+        "corrector_note": "1 punt artiest, 1 punt titel"
+    },
+
+    {
+        "description": "We hebben velen van jullie de afgelopen weken gewaarschuwd om jullie TikTok-dansjes te studeren. Gelukkig vragen we jullie vandaag niet om te dansen. Maar we willen wel Just Dance.",
+        "question": "Welk nummer wordt hier getoond? Titel en artiest graag!",
+        "answer": "Asereje (The Ketchup Song) - Las Ketchup",
+        "video": "assets/asereje-q.mp4",
+        "video_revision": "assets/asereje-a.mp4",
+        "corrector_note": "1 punt artiest, 1 punt titel, Asereje / Ketchup song is genoeg als titel"
+    },
+
+    {
+        "description": "Thomas kent deze Chinese versie van een populair Europees nummer.",
+        "question": "Hoe heet het originele nummer en wie is de originele artiest?",
+        "video": "assets/numa_china.mp4",
+        "video_revision": "assets/numa.mp4",
+        "answer": "Dragostea Din Tei - O-Zone (*not* Haiducii)",
+        "corrector_note": "1 punt artiest, 1 punt titel"
+    },
+
+    {
+        "description": "We hadden een groep ingehuurd om vanavond voor jullie op te treden, maar helaas zijn ze allemaal ziek en hebben we enkel de achtergrondmuziek.",
+        "question": "Van welk nummer is dit de instrumentale versie? Geef titel en artiest!",
+        "audio": "assets/dynamite_instrumental.ogg",
+        "audio_revision": "assets/dynamite.ogg",
+        "answer": "Dynamite - BTS",
+        "corrector_note": "1 punt artiest, 1 punt titel"
+    },
+
+    {
+        "description": "Dat was te gemakkelijk. Laten we er nog eentje doen.",
+        "question": "Welk nummer hebben we achterstevoren afgespeeld? Geef titel en artiest!",
+        "audio": "assets/dominique_reverse.ogg",
+        "audio_revision": "assets/dominique.ogg",
+        "answer": "Dominique - Soeur Sourire",
+        "corrector_note": "1 punt artiest, 1 punt titel"
+    },
+
+    {
+        "description": "We horen hier Oosterse Nacht uit Aladdin.",
+        "question": "Wat is de titel van de originele versie van Oosterse Nacht?",
+        "answer": "Arabian Nights",
+        "explanation": "Leuk weetje: in de oorspronkelijke Engelstalige versie zongen ze: *Where they cut off your ear / If they don’t like your face*. Door kritiek op geïmpliceerd racisme werd dat: *Where it’s flat and immense / And the heat is intense*. En in de live-action remake met Will Smith werd de tekst nogmaals aangepast: *Where you wander among / every culture and tongue*. Dat weten jullie nu ook weer.",
+        "video": "assets/arabian-nights-r.mp4",
+        "video_revision": "assets/arabian-nights-n.mp4"
+    },
+
+    {
+        "description": "Doe maar mee en schuif wat dichterbij. Doe die dans.",
+        "question": "Hoe heet het originele nummer van de Indianendans?",
+        "answer": "In Zaïre",
+        "explanation": "Dit nummer van Johnny Wakelin gaat over 'Rumble in the Jungle', het historische gevecht tussen George Foreman en Muhammad Ali in Kinshasa. Ali sloeg Foreman knock-out in de achtste ronde.",
+        "images": [
+            "assets/indianendans.jpg"
+        ],
+        "images_revision": [
+            "assets/in-zaire.jpg"
+        ],
+        "audio": "assets/in-zaire-r.mp3",
+        "audio_revision": "assets/in-zaire-n.mp3"
+    },
+
+    {
+        "description": "Tot slot nog een laatste muzikale uitdaging. Je kan tot 25 punten winnen. Maar je krijgt het slechts 1 keer te horen.",
+        "question": "Welke talen zitten er in deze versie van 'Let It Go'? Schrijf op de achterkant van je blad.",
+        "answer": "English, French, German, Dutch, Mandarin, Swedish, Japanese, Latin Spanish, Polish, Hungarian, Castilian Spanish, Catalan, Italian, Korean, Serbian, Cantonese, Portuguese, Malay, Russian, Danish, Bulgarian, Norwegian, Thai, Quebecois, Flemish",
+        "video": "assets/letitgo.mp4",
+        "corrector_note": "tel de juiste talen op 25 punten."
+    }
+]
 }
