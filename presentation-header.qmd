@@ -1,11 +1,11 @@
 ---
-title: "Quiz van Europese en Taalkunde"
-author: "Dr. Darnbrough en Dr. Van Hoey"
+title: "Quiz Night 2026"
+author: "Leanne Darnbrough, Thomas Van Hoey, en Anneleen Masschelein"
 format:
   revealjs:
     incremental: true
     logo: quiz_europese_taalkunde/logo.png
-    footer: "De Grote Talenquiz"
+    # footer: ""
     transition: fade
     css: presentation/style.css
 include-after-body: presentation/fragmentPlay.html
@@ -15,7 +15,8 @@ include-after-body: presentation/fragmentPlay.html
 
 <div style="font-size: 5vh;">
 
-Europese Literatuur en Taalkunde join forces in deze quiz, welkom!
+In deze quiz slaan de docenten van de algemene vakken in het eerste jaar Taal- en Letterkunde aan de KU Leuven de handen in elkaar!  
+Welkom!
 
 </div>
 
@@ -27,6 +28,7 @@ Uitleg over de avond.
 
 ## Strijdende teams vanavond
 
+NOG TE DOEN
 
 - Pipopapipo
 - Taylor Quist
@@ -63,7 +65,7 @@ Eerst een paar regels
 
 ## Voor we beginnen...
 
-Met dank aan onze verbeteraars en juryleden van Babylon 🫰🏻️
+Met dank aan onze verbeteraars en juryleden 🫰🏻️
 
 Onthoud, *de pen is machtiger dan het zwaard*.
 
@@ -77,18 +79,15 @@ Graag een applausje voor hen!
 
 :::: {.column width="50%"}
 
-1. Emoji
-2. Lang zal ze leven
-3. Old Skool ATW
-4. Rode draad
-
-
+1. Mémé leest een boek
+2. 600 kaarsjes voor de KU Leuven
+3. ALW 1 - Electric Boogaloo - Tokyo Drift
+4. Fun with friends and phonemes
 
 :::  {.fragment}
 
-Afgeven tafelrondes
+Tafelronde 1 <br> 5. Europese Sudoku
 
-PAUZE
 
 :::
 
@@ -96,19 +95,18 @@ PAUZE
 
 :::: {.column width="50%"}
 
-5. Putting the fun in phonetics
-6. Playlist voor de literatuurlijst
+PAUZE
+
+6. ATW uit de oude doos
+7. Oulipo S club 7 
+8. Music Maestro
+9. Van vers tot verf
 
 :::  {.fragment}
 
-Nabespreken tafelrondes
+Tafelronde 2 <br> 10. Cryptogrammen van den ALWi
 
 :::
-
-7. TAFEL Kruiswoordraadsels
-8. TAFEL Anagrammen en abjadtitels
-9. TAFEL Connections
-
 
 ::::
 

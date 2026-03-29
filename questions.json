@@ -2,17 +2,18 @@
   "Mémé leest een boek": [
     {
       "description": "In deze ronde laten we een meme zien die verwijst naar een auteur OF een literair werk.  Sommige herkenbare elementen zijn verborgen.",
-      "question": "Deze meme beschrijft welke roman van een Duitse Nobelprijswinnaar? (Hint: het was zijn eerste roman).",
+      "question": "Deze meme beschrijft welke roman van een Duitse Nobelprijswinnaar? <br> (Hint: het was zijn eerste roman).",
       "images": [
         "assets/Buddenbrooks.jpg"
       ],
       "images_revision": [
         "assets/Buddenbrooks_full.jpg"
       ],
-      "answer": "Buddenbrooks van Thomas Mann"
+      "answer": "Buddenbrooks (van Thomas Mann)"
     },
     {
-      "question": "Welke denker van wantrouw heeft Britney Spears in de 21e eeuw een nieuwe leven ingeblazen?",
+      "description": "On to the greats.",
+      "question": "Welke denker van wantrouw heeft Britney Spears in de 21e eeuw een nieuw leven ingeblazen?",
       "images": [
         "assets/marx.jpg"
       ],
@@ -22,6 +23,7 @@
       "answer": "Karl Marx"
     },
     {
+      "description": "Oh la la! (French accent)",
       "question": "Welke Franse auteur komt hier voor?",
       "images": [
         "assets/zola.jpg"
@@ -33,26 +35,28 @@
     },
     {
       "description": "Oei, dit loopt niet helemaal zoals gepland!",
-      "question": "In welke roman is dit een belangrijk plotpunt?",
+      "question": "In welke roman was het een belangrijk plotpunt dat de man al getrouwd was?",
       "images": [
         "assets/eyre.png"
       ],
       "images_revision": [
         "assets/eyre_cover.webp"
       ],
-      "answer": "Jane Eyre van Charlotte Brontë"
+      "answer": "Jane Eyre (van Charlotte Brontë)"
     },
     {
-      "question": "We stellen allemaal wel eens dingen uit, maar welke roman die de stinkende en gênante (en kostbare) gevolgen van uitstelgedrag beschrijft, wordt in deze meme verwezen? ",
+      "description": "We stellen allemaal wel eens dingen uit, maar ",
+      "question": "Naar welke roman die de stinkende en gênante (en kostbare) gevolgen van uitstelgedrag beschrijft, wordt in deze meme verwezen? ",
       "images": [
         "assets/kaas.png"
       ],
       "images_revision": [
         "assets/kaas_cover.jpg"
       ],
-      "answer": "Kaas van Willem Elsschot"
+      "answer": "Kaas (van Willem Elsschot)"
     },
     {
+      "description": "Pffiet pffewwww",
       "question": "Dit is een scène uit het eerste hoofdstuk van welke roman?",
       "images": [
         "assets/orlando.jpg"
@@ -60,9 +64,10 @@
       "images_revision": [
         "assets/orlando_full.png"
       ],
-      "answer": "Orlando van Virgina Woolf"
+      "answer": "Orlando (van Virgina Woolf)"
     },
     {
+      "description": "La cucaracha, la cucaracha...",
       "question": "Naar welke roman verwijst deze tekening? ",
       "images": [
         "assets/kafka.png "
@@ -70,9 +75,10 @@
       "images_revision": [
         "assets/kafka_full.jpg"
       ],
-      "answer": "Metamorphose van Franz Kafka"
+      "answer": "Metamorphose (van Franz Kafka)"
     },
     {
+      "description": "Nevermore!!",
       "question": "Over welke Amerikaanse auteur hebben we het hier?",
       "images": [
         "assets/poe.jpg"
@@ -83,6 +89,7 @@
       "answer": "Edgar Allan Poe"
     },
     {
+      "description": "Live fast, die young.",
       "question": "In welk Europees werk neemt een van de hoofdpersonen zo'n overhaaste en rampzalige beslissing?",
       "images": [
         "assets/romeo.jpg"
@@ -90,10 +97,11 @@
       "images_revision": [
         "assets/romeo_full.jpg"
       ],
-      "answer": "Romeo & Juliet van William Shakespeare"
+      "answer": "Romeo & Juliet (van William Shakespeare)"
     },
     {
-      "question": "Deze Argentijnse auteur moet beslissen wat een goed personage zou moeten begrijpen: dat hij onderdeel was van een grap, dat hij ook deel uitmaakt van het complot, dat hij vanaf het begin verraden werd of dat geen enkel lot beter is dan het andere… Maar wie is deze auteur?",
+      "description": "Deze Argentijnse auteur moet beslissen wat een goed personage zou moeten begrijpen: dat hij onderdeel was van een grap, dat hij ook deel uitmaakt van het complot, dat hij vanaf het begin verraden werd of dat geen enkel lot beter is dan het andere… Maar ",
+      "question": "Wie is deze auteur?",
       "images": [
         "assets/Borges.png"
       ],
@@ -198,8 +206,9 @@
   ],
   "ALW 1 - Electric Boogaloo - Tokyo Drift": [
     {
-      "description": "Hier zijn enkele willekeurige random ALW vragen. Hoe vertellen Russisch formalisten verhalen? ",
+      "description": "In deze ronde geven we jullie enkele random ALW vragen. Vraag 1. Russische formalisten vertellen graag verhalen",
       "question": "Vul in de lege plek op deze meme.",
+      "answer": "suzjet",
       "images": [
         "assets/fabula.jpg"
       ],
@@ -208,7 +217,7 @@
       ]
     },
     {
-      "description": "Dr. Darnbrough nam Diego Velázquez mee op vakantie!",
+      "description": "Ik (Leanne) ging op reis en nam Diego Velázquez mee! Maar",
       "question": "Welk literair en artistiek stijlmiddel is in deze foto te vinden?",
       "answer": "Mis en abyme",
       "images": [
@@ -219,7 +228,14 @@
       ]
     },
     {
-      "question": "Wie beschrijft personages op deze manier in *Aspects of the Novel*?",
+      "question": "Welke techniek uit de oude Griekse epiek is hier toegepast?",
+      "answer": "Teichoskopie",
+      "explanation": "Een techniek waarbij een personage door het raam staart en een beschrijving geeft van simultane acties buiten het podiumgebeuren",
+      "video": "./../friends.mp4"
+    },
+    {
+      "description": "Het belang van sexy personages kan niet onderschat worden.",
+      "question": "Wie beschrijft personages op deze manier in <br>  *Aspects of the Novel*?",
       "answer": "E. M. Forster",
       "explanation": "Flat and round characters",
       "images": [
@@ -227,6 +243,7 @@
       ]
     },
     {
+      "description": "Tijd voor het oude Egypte.",
       "question": "Welke literaire stijlfiguur gebruikt Marianne Moore hier om de fles op een levendige, dramatische manier te beschrijven?",
       "answer": "Ekphrasis",
       "images": [
@@ -234,6 +251,7 @@
       ]
     },
     {
+      "description": "Het zou geen ALW zijn zonder stijlfiguren.",
       "question": "Welke semantische stijlfiguur wordt hier weergegeven?",
       "answer": "Tautologie",
       "images": [
@@ -242,7 +260,8 @@
       "explanation": "Een begrip wordt minstens twee maal uitgedrukt"
     },
     {
-      "question": "En welke semantische stijfiguur wordt hier weergegeven?",
+      "description": "En",
+      "question": "Welke semantische stijfiguur wordt hier weergegeven?",
       "answer": "Pleonasme",
       "images": [
         "assets/pleonasme.jpg"
@@ -250,15 +269,16 @@
       "explanation": "Een eigenschap die reeds aanwezig is wordt nog eens benadrukt"
     },
     {
-      "question": "Deze dinosaurus met uitstekende gebitshygiëne is een voorbeeld van welke lexicale stijlfiguur?",
+      "question": "*The Guardian* heeft het hier over welke lexicale stijlfiguur?",
       "answer": "Neologisme",
       "images": [
-        "assets/neologism.jpg"
+        "assets/charli.png"
       ],
       "explanation": "Een nieuwe woord op basis van bestaande woorden"
     },
     {
-      "question": "Welke twee termen ontbreken in deze afbeelding? Let op: we hebben beide termen in de juiste volgorde nodig!",
+      "explanation": "Oke, hier is een mogelijke examenvraag.",
+      "question": "Welke twee termen ontbreken in deze afbeelding? <br> Let op: we hebben beide termen in de juiste volgorde nodig!",
       "answer": "A: Diesesis, B: Mimesis",
       "images": [
         "assets/diegesis.jpg"
@@ -268,18 +288,13 @@
       ]
     },
     {
-      "question": "Welke techniek uit de oude Griekse epiek is hier toegepast?",
-      "answer": "Teichoskopie",
-      "explanation": "Een techniek waarbij een personage door het raam staart en een beschrijving geeft van simultane acties buiten het podiumgebeuren",
-      "video": "./../friends.mp4"
-    },
-    {
+      "description": "Ten slotte, tijd voor movie magic op het silver screen.",
       "question": "Welk concept uit het theater wordt hier getoond in Agatha's introsong (*WandaVision*)?",
       "answer": "Het doorbreken van de vierde muur",
       "video": "./../agatha.mp4"
     }
   ],
-  "Fun with phonemes": [
+  "Fun with friends and phonemes": [
     {
       "description": "Tijd voor wat serieuzere memes. Hopelijk kennen jullie je IPA nog vanbuiten",
       "question": "Wat is het ontbrekende woord?",
@@ -316,7 +331,7 @@
     {
       "description": "Toen ik in China was, deelde ik een kamer met een charmante Tsjech genaamd Jan. Tsjechië staat ook bekend als het land van componist Dvořák.",
       "question": "Wat is de naam van het diakritisch teken op de <ř> hier?",
-      "answer": "macron / haček",
+      "answer": "caron / haček",
       "images": [
         "assets/hacek.jpg"
       ]
@@ -439,7 +454,7 @@
       "answer": "iconisch en conventioneel, indexicaal en conventioneel, indexicaal en conventioneel"
     },
     {
-      "question": "In het Oud-Hoogduits heeft het werkwoord 'bieden' de volgende stamtijden: *bot*, *butun*, *(gi)botan. In het Duits is dit geëvolueerd naar *bot*, *boten*, *geboten*. Welk morfologisch proces heeft hier plaatsgevonden? ",
+      "question": "In het Oud-Hoogduits heeft het werkwoord 'bieden' de volgende stamtijden: *bot*, *butun*, *(gi)botan. <br> In het Duits is dit geëvolueerd naar *bot*, *boten*, *geboten*. <br> Welk morfologisch proces heeft hier plaatsgevonden? ",
       "choices": [
         "analogische extensie",
         "non-proportionele Ausgleich",
@@ -479,7 +494,7 @@
       "answer": "een snelle opeenvolging van twee homorganische fonemen"
     },
     {
-      "question": "Eng. *country dance* > Fr. *contredanse* (cf. Fr. *contre* 'tegenover') > Eng. *contradance* illustreren respectievelijk",
+      "question": "Eng. *country dance* <br> → Fr. *contredanse* (cf. Fr. *contre* 'tegenover') <br> → Eng. *contradance* illustreren respectievelijk",
       "choices": [
         "metanalyse en leenvertaling",
         "volksetymologie en herontlening",
@@ -489,7 +504,7 @@
       "answer": "volksetymologie en herontlening"
     },
     {
-      "question": "De klankveranderingen (Middelnederlands naar Nieuw-Nederlands) in de woorden 'nieman → niemand; tonge → tong; weder → weer; diender → diender' zijn:",
+      "question": "De klankveranderingen (Middelnederlands naar Nieuw-Nederlands) in de woorden <br> 'nieman → niemand; <br> tonge → tong; <br> weder → weer; diender → diender' zijn:",
       "choices": [
         "paragoge, apocope, syncope, epenthesis",
         "prothesis, aphaeresis, syncope, epenthesis",
@@ -499,7 +514,8 @@
       "answer": "paragoge, apocope, syncope, epenthesis"
     },
     {
-      "question": "Limonade is lekker. Je kan sinaasappellimonade krijgen, citroenlimonade, granaatappellimonade. Wat is hier aan de hand met het oorspronkelijke leenwoord limonade?",
+      "description": "Limonade is lekker. Je kan sinaasappellimonade krijgen, citroenlimonade, granaatappellimonade. ",
+      "question": "Wat is hier aan de hand met het oorspronkelijke leenwoord *limonade*?",
       "choices": [
         "generalisatie",
         "specialisatie",
@@ -509,186 +525,10 @@
       "answer": "generalisatie"
     }
   ],
-  "Van vers tot verf": [
-    {
-      "description": "En nu iets voor de kunstwetenshappers onder ons! Bij elke vraag in deze ronde zie je een kunstwerk dat een auteur, scène of een concept uit de literatuur uitbeeldt. Hoeveel kun je er herkennen?",
-      "question": "Dit standbeeld beeldt een scène uit uit welk werk uit de oudheid? Een punt voor de auteur en een punt voor het werk.",
-      "images": [
-        "assets/ovid.jpg"
-      ],
-      "answer": "Metamorphoses van Ovidius"
-    },
-    {
-      "question": "Welke oude dichter met een twijfelachtig bestaan is het onderwerp van dit schilderij?",
-      "images": [
-        "assets/ossian.jpg"
-      ],
-      "answer": "Ossian"
-    },
-    {
-      "description": "De Prerafaëlieten waren dol op deze scène uit de literatuur.",
-      "question": "Uit welk werk haalde Swift haar inspiratie voor dit op Millais geïnspireerde tableau vivant? Eén punt voor de auteur, één punt voor het werk.",
-      "video": "./../swift.mp4",
-      "answer": "Hamlet van William Shakespeare"
-    },
-    {
-      "question": "Welke poëtische koortsdroom wordt in dit werk weergegeven? Eén punt voor de dichter, één punt voor het werk, en één punt als je kunt noemen wie het onderbroken heeft. ",
-      "images": [
-        "assets/khan.png"
-      ],
-      "images_revision": [
-        "assets/khan_cover.jpg"
-      ],
-      "answer": "Kubla Khan, Samuel Taylor Coleridge, een man van Porlock"
-    },
-    {
-      "question": "Van welk werk van welke auteur zien we hier de trailer? Titel en auteur graag.",
-      "video": "./../odyssey.mp4",
-      "images_revision": [
-        "assets/odyssee_poster.jpg"
-      ],
-      "answer": "Odysee van Homeros"
-    },
-    {
-      "question": "Dit beroemde werk van Botticelli illustreert een setting waarin welke literaire tekst zich deels afspeelt? Eén punt voor de auteur en één punt voor het werk.",
-      "images": [
-        "assets/divina.png"
-      ],
-      "answer": "Divina Comedia (De goddelijke komedie) van Dante"
-    },
-    {
-      "question": "Welk beroemd duo heeft Picasso hier getekend? Eén punt voor elk personage in de tekening en één punt voor de auteur.",
-      "images": [
-        "assets/quichote.png"
-      ],
-      "answer": "Don Quichote en Sancho Panza van Cervantes"
-    },
-    {
-      "question": "Wie is deze vrouw?",
-      "images": [
-        "assets/Circe.png"
-      ],
-      "images_revision": [
-        "assets/circe_novel.jpeg"
-      ],
-      "answer": "Circe"
-    },
-    {
-      "question": "\"As when to sailors while they roam, / By creeks and outfalls far from home, /  Rising and dropping with the foam, / From dying swans wild warblings come, / Blown shoreward; so to Camelot / Still as the boathead wound along / The willowy hills and fields among, / They heard her chanting her deathsong, / ...\" Wie is het onderwerp van dit gedicht? Eén punt voor de personage en één punt voor de dichter.",
-      "images": [
-        "assets/shalott.avif"
-      ],
-      "answer": "The Lady of Shalott van Lord Tennyson"
-    },
-    {
-      "description": "Nog een gevaarlijke verleiding voor zeelieden--dit keer uit Duitsland. ",
-      "question": "Wie is deze femme fatale?",
-      "images": [
-        "assets/lorelei.png"
-      ],
-      "answer": "Die Lorelei"
-    }
-  ],
-  "Music Maestro": [
-    {
-      "description": "Thomas en ik houden erg van muziekrondes, dus hier is onze verplichte muziekronde. We beginnen graag met enkele one-hit wonders.",
-      "question": "Welk nummer is dit? Geef de titel en de artiest.",
-      "answer": "Blue - Eiffel 65",
-      "audio": "assets/blue-q.mp3",
-      "audio_revision": "assets/blue-a.mp3",
-      "images_revision": [
-        "assets/blue.jpg"
-      ],
-      "corrector_note": "1 punt artiest, 1 punt titel"
-    },
-    {
-      "description": "Toen ik nog een kleine Anthe was, was ik dol op Alvin and the Chipmunks. Ik heb onlangs een paar van mijn oude cd’s teruggevonden en ik wil die chipmunk-vreugde graag met jullie delen.",
-      "question": "Welk nummer is hier gechipmunkified? Titel en artiest graag!",
-      "answer": "Bad Day - Daniel Powter",
-      "audio": "assets/bad-day-q.mp3",
-      "audio_revision": "assets/bad-day-a.mp3",
-      "images": [
-        "assets/alvin-chipmunks.jpg"
-      ],
-      "corrector_note": "1 punt artiest, 1 punt titel"
-    },
-    {
-      "description": "Miauw miauw miauw miauw miauw miauw miauw. Miauw miauw miauw miauw miauw. Miauw miauw miauw miauw.",
-      "question": "Miauw miauw miauw miauw miauw? Titel miauw artiest miauw!",
-      "answer": "Unwritten - Natasha Bedingfield",
-      "audio": "assets/unwritten-q.mp3",
-      "audio_revision": "assets/unwritten-a.mp3",
-      "images": [
-        "assets/gizmo.jpg"
-      ],
-      "corrector_note": "1 punt artiest, 1 punt titel"
-    },
-    {
-      "description": "We hebben velen van jullie de afgelopen weken gewaarschuwd om jullie TikTok-dansjes te studeren. Gelukkig vragen we jullie vandaag niet om te dansen. Maar we willen wel Just Dance.",
-      "question": "Welk nummer wordt hier getoond? Titel en artiest graag!",
-      "answer": "Asereje (The Ketchup Song) - Las Ketchup",
-      "video": "assets/asereje-q.mp4",
-      "video_revision": "assets/asereje-a.mp4",
-      "corrector_note": "1 punt artiest, 1 punt titel, Asereje / Ketchup song is genoeg als titel"
-    },
-    {
-      "description": "Thomas kent deze Chinese versie van een populair Europees nummer.",
-      "question": "Hoe heet het originele nummer en wie is de originele artiest?",
-      "video": "assets/numa_china.mp4",
-      "video_revision": "assets/numa.mp4",
-      "answer": "Dragostea Din Tei - O-Zone (*not* Haiducii)",
-      "corrector_note": "1 punt artiest, 1 punt titel"
-    },
-    {
-      "description": "We hadden een groep ingehuurd om vanavond voor jullie op te treden, maar helaas zijn ze allemaal ziek en hebben we enkel de achtergrondmuziek.",
-      "question": "Van welk nummer is dit de instrumentale versie? Geef titel en artiest!",
-      "audio": "assets/dynamite_instrumental.ogg",
-      "audio_revision": "assets/dynamite.ogg",
-      "answer": "Dynamite - BTS",
-      "corrector_note": "1 punt artiest, 1 punt titel"
-    },
-    {
-      "description": "Dat was te gemakkelijk. Laten we er nog eentje doen.",
-      "question": "Welk nummer hebben we achterstevoren afgespeeld? Geef titel en artiest!",
-      "audio": "assets/dominique_reverse.ogg",
-      "audio_revision": "assets/dominique.ogg",
-      "answer": "Dominique - Soeur Sourire",
-      "corrector_note": "1 punt artiest, 1 punt titel"
-    },
-    {
-      "description": "We horen hier Oosterse Nacht uit Aladdin.",
-      "question": "Wat is de titel van de originele versie van Oosterse Nacht?",
-      "answer": "Arabian Nights",
-      "explanation": "Leuk weetje: in de oorspronkelijke Engelstalige versie zongen ze: *Where they cut off your ear / If they don’t like your face*. Door kritiek op geïmpliceerd racisme werd dat: *Where it’s flat and immense / And the heat is intense*. En in de live-action remake met Will Smith werd de tekst nogmaals aangepast: *Where you wander among / every culture and tongue*. Dat weten jullie nu ook weer.",
-      "video": "assets/arabian-nights-r.mp4",
-      "video_revision": "assets/arabian-nights-n.mp4"
-    },
-    {
-      "description": "Doe maar mee en schuif wat dichterbij. Doe die dans.",
-      "question": "Hoe heet het originele nummer van de Indianendans?",
-      "answer": "In Zaïre",
-      "explanation": "Dit nummer van Johnny Wakelin gaat over 'Rumble in the Jungle', het historische gevecht tussen George Foreman en Muhammad Ali in Kinshasa. Ali sloeg Foreman knock-out in de achtste ronde.",
-      "images": [
-        "assets/indianendans.jpg"
-      ],
-      "images_revision": [
-        "assets/in-zaire.jpg"
-      ],
-      "audio": "assets/in-zaire-r.mp3",
-      "audio_revision": "assets/in-zaire-n.mp3"
-    },
-    {
-      "description": "Tot slot nog een laatste muzikale uitdaging. Je kan tot 25 punten winnen. Maar je krijgt het slechts 1 keer te horen.",
-      "question": "Welke talen zitten er in deze versie van 'Let It Go'? Schrijf op de achterkant van je blad.",
-      "answer": "English, French, German, Dutch, Mandarin, Swedish, Japanese, Latin Spanish, Polish, Hungarian, Castilian Spanish, Catalan, Italian, Korean, Serbian, Cantonese, Portuguese, Malay, Russian, Danish, Bulgarian, Norwegian, Thai, Quebecois, Flemish",
-      "video": "./../letitgo.mp4",
-      "corrector_note": "tel de juiste talen op 25 punten."
-    }
-  ],
   "Oulipo S club 7": [
     {
       "question": "\"Zoals een havodiploma in de berichtgevers, snelste van de gevoelerigheden, gemakkelijk een schuwe wilde roulade achterna stormt: zij vlucht onder hem door, maar van vlakbij schiet hij schel krijtend steeds weer op haar af, want zijn instituutsraad drijft him op haar te grijpen--zo vloog vol waadpoten Achromasie recht naar hem.\"",
-      "description": "Oulipo is een los verband van experimentele schrijvers en mathematici in de jaren 1960. In hun experimenten staat de contrainte centraal, d.i. een zelfopgelegde beperking die moet worden overwonnen, zoals bv. het verbod om de letter [e] te gebruiken. Een ander voorbeeld van een contrainte is  S+7, waarin elk zelfstandig naamwoord van een tekst vervangen door het zevende zelfstandig naamwoord dat erop volgt in een bepaald woordenboek. Deze ronde bestaat uit citaten uit beroemde werken uit de Europese literatuur waarin de S+7-beperking is toegepast, met behulp van het online woordenboek van Van Dale. Wij zijn op zoek naar de titel van het werk waar het citaat vandaan komt. Om te beginnen, een van de bekendste vergelijkingen in de Europese literatuur:",
+      "description": "Oulipo is een los verband van experimentele schrijvers en mathematici in de jaren 1960. In hun experimenten staat de contrainte centraal, d.i. een zelfopgelegde beperking die moet worden overwonnen, zoals bv. het verbod om de letter [e] te gebruiken. Een ander voorbeeld van een contrainte is  S+7, waarin elk zelfstandig naamwoord van een tekst vervangen door het zevende zelfstandig naamwoord dat erop volgt in een bepaald woordenboek. <br> Deze ronde bestaat uit citaten uit beroemde werken uit de Europese literatuur waarin de S+7-beperking is toegepast, met behulp van het online woordenboek van Van Dale. Wij zijn op zoek naar de titel van het werk waar het citaat vandaan komt. Om te beginnen, een van de bekendste vergelijkingen in de Europese literatuur:",
       "explanation": "Zoals een havik in de bergen, snelste van de gevleugelden, gemakkelijk een schuwe wilde rotsduif achterna stormt: zij vlucht onder hem door, maar van vlakbij schiet hij schel krijtend steeds weer op haar af. Want zijn instinct drijft hem op haar te grijpen--zo vloog vol vuur Achilles recht naar hem.",
       "answer": "Ilias "
     },
@@ -745,6 +585,188 @@
       "description": "In welk werk zou je deze woorden horen?",
       "answer": "Schimmen",
       "explanation": "Het hele land wemelt van de schimmen. Overal schimmen, ontelbare als korrels zand op het strand."
+    }
+  ],
+  "Music Maestro": [
+    {
+      "description": "Wij houden erg van muziekrondes, dus hier is onze verplichte muziekronde. We beginnen graag met enkele one-hit wonders.",
+      "question": "Welk nummer is dit? Geef de titel en de artiest.",
+      "answer": "Blue - Eiffel 65",
+      "audio": "assets/blue-q.mp3",
+      "audio_revision": "assets/blue-a.mp3",
+      "images_revision": [
+        "assets/blue.jpg"
+      ],
+      "corrector_note": "1 punt artiest, 1 punt titel"
+    },
+    {
+      "description": "Alvin en de chipmunks!",
+      "question": "Welk nummer is hier gechipmunkified? Titel en artiest graag!",
+      "answer": "Bad Day - Daniel Powter",
+      "audio": "assets/bad-day-q.mp3",
+      "audio_revision": "assets/bad-day-a.mp3",
+      "images": [
+        "assets/alvin-chipmunks.jpg"
+      ],
+      "corrector_note": "1 punt artiest, 1 punt titel"
+    },
+    {
+      "description": "Miauw miauw miauw miauw miauw miauw miauw. Miauw miauw miauw miauw miauw. Miauw miauw miauw miauw.",
+      "question": "Miauw miauw miauw miauw miauw? Titel miauw artiest miauw!",
+      "answer": "Unwritten - Natasha Bedingfield",
+      "audio": "assets/unwritten-q.mp3",
+      "audio_revision": "assets/unwritten-a.mp3",
+      "images": [
+        "assets/gizmo.jpg"
+      ],
+      "corrector_note": "1 punt artiest, 1 punt titel"
+    },
+    {
+      "description": "We hebben velen van jullie de afgelopen weken gewaarschuwd om jullie TikTok-dansjes te studeren. Gelukkig vragen we jullie vandaag niet om te dansen. Maar we willen wel Just Dance.",
+      "question": "Welk nummer wordt hier getoond? Titel en artiest graag!",
+      "answer": "Asereje (The Ketchup Song) - Las Ketchup",
+      "video": "assets/asereje-q.mp4",
+      "video_revision": "assets/asereje-a.mp4",
+      "corrector_note": "1 punt artiest, 1 punt titel, Asereje / Ketchup song is genoeg als titel"
+    },
+    {
+      "description": "Tijd voor een Chinese cover.",
+      "question": "Hoe heet het originele nummer en wie is de originele artiest?",
+      "video": "assets/numa_china.mp4",
+      "video_revision": "assets/numa.mp4",
+      "answer": "Dragostea Din Tei - O-Zone (*not* Haiducii)",
+      "corrector_note": "1 punt artiest, 1 punt titel"
+    },
+    {
+      "description": "Ik heb geen tickets kunnen bemachtigen voor het concert, maar hopelijk jullie wel.",
+      "question": "Van welk nummer is dit de instrumentale versie? Geef titel en artiest!",
+      "audio": "assets/dynamite_instrumental.ogg",
+      "audio_revision": "assets/dynamite.ogg",
+      "answer": "Dynamite - BTS",
+      "corrector_note": "1 punt artiest, 1 punt titel"
+    },
+    {
+      "description": "Dat was te gemakkelijk. Laten we er nog eentje doen.",
+      "question": "Welk nummer hebben we achterstevoren afgespeeld? Geef titel en artiest!",
+      "audio": "assets/dominique_reverse.ogg",
+      "audio_revision": "assets/dominique.ogg",
+      "answer": "Dominique - Soeur Sourire",
+      "corrector_note": "1 punt artiest, 1 punt titel"
+    },
+    {
+      "description": "We horen hier Oosterse Nacht uit Aladdin.",
+      "question": "Wat is de titel van de originele versie van Oosterse Nacht?",
+      "answer": "Arabian Nights",
+      "explanation": "Leuk weetje: in de oorspronkelijke Engelstalige versie zongen ze: *Where they cut off your ear / If they don’t like your face*. Door kritiek op geïmpliceerd racisme werd dat: *Where it’s flat and immense / And the heat is intense*. En in de live-action remake met Will Smith werd de tekst nogmaals aangepast: *Where you wander among / every culture and tongue*. Dat weten jullie nu ook weer.",
+      "video": "assets/arabian-nights-r.mp4",
+      "video_revision": "assets/arabian-nights-n.mp4"
+    },
+    {
+      "description": "Doe maar mee en schuif wat dichterbij. Doe die dans.",
+      "question": "Hoe heet het originele nummer van de Indianendans?",
+      "answer": "In Zaïre",
+      "explanation": "Dit nummer van Johnny Wakelin gaat over 'Rumble in the Jungle', het historische gevecht tussen George Foreman en Muhammad Ali in Kinshasa. Ali sloeg Foreman knock-out in de achtste ronde.",
+      "images": [
+        "assets/indianendans.jpg"
+      ],
+      "images_revision": [
+        "assets/in-zaire.jpg"
+      ],
+      "audio": "assets/in-zaire-r.mp3",
+      "audio_revision": "assets/in-zaire-n.mp3"
+    },
+    {
+      "description": "Tot slot nog een laatste muzikale uitdaging. Je kan tot 25 punten winnen. Maar je krijgt het slechts 1 keer te horen.",
+      "question": "Welke talen zitten er in deze versie van 'Let It Go'? Schrijf op de achterkant van je blad.",
+      "answer": "English, French, German, Dutch, Mandarin, Swedish, Japanese, Latin Spanish, Polish, Hungarian, Castilian Spanish, Catalan, Italian, Korean, Serbian, Cantonese, Portuguese, Malay, Russian, Danish, Bulgarian, Norwegian, Thai, Quebecois, Flemish",
+      "video": "./../letitgo.mp4",
+      "corrector_note": "tel de juiste talen op 25 punten."
+    }
+  ],
+  "Van vers tot verf": [
+    {
+      "description": "En nu iets voor de kunstwetenshappers onder ons! Bij elke vraag in deze ronde zie je een kunstwerk dat een auteur, scène of een concept uit de literatuur uitbeeldt. Vraag 1.",
+      "question": "Dit standbeeld beeldt een scène uit uit welk werk uit de oudheid? <br> Een punt voor de auteur en een punt voor het werk.",
+      "images": [
+        "assets/ovid.jpg"
+      ],
+      "answer": "Metamorphoses van Ovidius",
+      "corrector_note": "1 punt auteur, 1 punt titel"
+    },
+    {
+      "question": "Welke oude dichter met een twijfelachtig bestaan is het onderwerp van dit schilderij?",
+      "images": [
+        "assets/ossian.jpg"
+      ],
+      "answer": "Ossian",
+      "corrector_note": "1 punt dichter"
+    },
+    {
+      "description": "De Prerafaëlieten waren dol op deze scène uit de literatuur.",
+      "question": "Uit welk werk haalde Swift haar inspiratie voor dit op Millais geïnspireerde tableau vivant? <br> Eén punt voor de auteur, één punt voor het werk.",
+      "video": "./../swift.mp4",
+      "answer": "Hamlet van William Shakespeare",
+      "corrector_note": "1 punt auteur, 1 punt titel"
+    },
+    {
+      "question": "Welke poëtische koortsdroom wordt in dit werk weergegeven? <br> Eén punt voor de dichter, één punt voor het werk, en één punt als je kunt noemen wie het onderbroken heeft. ",
+      "images": [
+        "assets/khan.png"
+      ],
+      "images_revision": [
+        "assets/khan_cover.jpg"
+      ],
+      "answer": "Kubla Khan, Samuel Taylor Coleridge, een man van Porlock",
+      "corrector_note": "1 punt werk, 1 punt dichter, 1 punt random man"
+    },
+    {
+      "question": "Van welk werk van welke auteur zien we hier de trailer? <br> Titel en auteur graag.",
+      "video": "./../odyssey.mp4",
+      "images_revision": [
+        "assets/odyssee_poster.jpg"
+      ],
+      "answer": "Odysee van Homeros",
+      "corrector_note": "1 punt auteur, 1 punt titel"
+    },
+    {
+      "question": "Dit beroemde werk van Botticelli illustreert een setting waarin welke literaire tekst zich deels afspeelt? Eén punt voor de auteur en één punt voor het werk.",
+      "images": [
+        "assets/divina.png"
+      ],
+      "answer": "Divina Comedia (De goddelijke komedie) van Dante"
+    },
+    {
+      "question": "Welk beroemd duo heeft Picasso hier getekend? <br> Eén punt voor elk personage in de tekening en één punt voor de auteur.",
+      "images": [
+        "assets/quichote.png"
+      ],
+      "answer": "Don Quichote en Sancho Panza van Cervantes",
+      "corrector_note": "1 punt auteur, 1 punt per personage (2 max)"
+    },
+    {
+      "question": "Wie is deze vrouw?",
+      "images": [
+        "assets/Circe.png"
+      ],
+      "images_revision": [
+        "assets/circe_novel.jpeg"
+      ],
+      "answer": "Circe"
+    },
+    {
+      "question": "\"As when to sailors while they roam, / By creeks and outfalls far from home, /  Rising and dropping with the foam, / From dying swans wild warblings come, / Blown shoreward; so to Camelot / Still as the boathead wound along / The willowy hills and fields among, / They heard her chanting her deathsong, / ...\" <br>  Wie is het onderwerp van dit gedicht? <br> Eén punt voor de personage en één punt voor de dichter.",
+      "images": [
+        "assets/shalott.avif"
+      ],
+      "answer": "The Lady of Shalott van Lord Tennyson"
+    },
+    {
+      "description": "Nog een gevaarlijke verleiding voor zeelieden--dit keer uit Duitsland. ",
+      "question": "Wie is deze femme fatale?",
+      "images": [
+        "assets/lorelei.png"
+      ],
+      "answer": "Die Lorelei"
     }
   ],
   "durante_Cryptogrammen van den ALWi": [
