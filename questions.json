@@ -61,6 +61,112 @@
       "explanation": "Het hele land wemelt van de schimmen. Overal schimmen, ontelbare als korrels zand op het strand."
     }
   ],
+
+  "ALW Electric Boogaloo": [
+    {
+      "description": "Hier zijn enkele willekeurige random ALW vragen. Hoe vertellen Russisch formalisten verhalen? ",
+      "question": "Vul in de lege plek op deze meme.",
+      "images": [
+        "assets/fabula.jpg"
+      ],
+      "images_revision": [
+        "assets/fabula_a.jpg"
+      ]
+    },
+    {
+      "description" : "Dr. Darnbrough nam Diego Velázquez mee op vakantie!", 
+      "question": "Welk literair en artistiek stijlmiddel is in deze foto te vinden?", 
+      "answer": "Mis en abyme"
+    },
+		{
+			"question": "Wie beschrijft personages op deze manier in *Aspects of the Novel*?",
+			"answer": "E. M. Forster",
+      "explanation": "Flat and round characters"
+		},
+		{
+			"question": "Welke literaire stijlfiguur gebruikt Marianne Moore hier om de fles op een levendige, dramatische manier te beschrijven?",
+			"answer": "Ekphrasis"
+		},
+		{
+			"question": "Welke semantische stijlfiguur wordt hier weergegeven?",
+			"answer": "Tautologie"
+		},
+		{
+			"question": "En welke semantische stijfiguur wordt hier weergegeven?",
+			"answer": "Pleonamse"
+		},
+		{
+			"question": "Deze dinosaurus met uitstekende gebitshygiëne is een voorbeeld van welke lexicale stijlfiguur?",
+			"answer": "Neologisme"
+		},
+		{
+			"question": "Welke twee termen ontbreken in deze afbeelding? Let op: we hebben beide termen in de juiste volgorde nodig!",
+			"answer": "A: Diesesis, B: Mimesis"
+		},
+		{
+			"question": "Welke techniek uit de oude Griekse epiek is hier toegepast?",
+			"answer": "Teichoskopie",
+      "explanation": "Een techniek waarbij een personage door het raam staart en een beschrijving geeft van simultane acties buiten het podiumgebeuren"
+		},
+		{
+			"question": "Welk concept uit het theater wordt vaak in de BBC-serie *Fleabag* getoond?",
+			"answer": "Het doorbreken van de vierde muur"
+		}
+  ],
+
+  "Cryptogrammen van den ALWi": [
+		{
+			"question": "Een sportartikel waar je ook mee kan dansen",
+			"answer": "Mieke Bal", 
+			"explanation": "Narratology, Bal"
+		},
+		{
+			"question": "Een lid van de Simpsons en een Middeleeuwse zanger",
+			"answer": "Roland Barthes", 
+			"explanation": "Functies en indexen, Bart / bard + Chanson de Roland"
+		},
+		{
+			"question": "Een heilige man tussen twee vrouwen",
+			"answer": "Julia Kristeva", 
+			"explanation": "Intertextualiteit, Christ tussen Julia en Eva"
+		},
+		{
+			"question": "Een scheve lach met een extratje. ",
+			"answer": "Algirdas Julien Greimas", 
+			"explanation": "Actantieel schema, Grimas + e"
+		},
+		{
+			"question": "Een term uit de muziek en een aanwijzing",
+			"answer": "Jan-Noël Tohn", 
+			"explanation": "Transmedial storytelling, toon en tonen"
+		},
+		{
+			"question": "Een neefje uit Twin Peaks?",
+			"answer": "Alan Palmer", 
+			"explanation": "Fictional Minds, Laura Palmer"
+		},
+		{
+			"question": "Niet Ken van Barbie",
+			"answer": "Marie-Laure Ryan", 
+			"explanation": "Ryan Gosling"
+		},
+		{
+			"question": "Hij houdt van wintersport maar ook van lekker voor het haardvuur zitten",
+			"answer": "Victor Shklovski", 
+			"explanation": "Slof + Ski"
+		},
+		{
+			"question": "Deze schilder is bovendien van adel",
+			"answer": "Raphaël Baroni", 
+			"explanation": "baron"
+		},
+		{
+			"question": "Een ander lid van de Simpsons en een poëtische ziel",
+			"answer": "Homeros", 
+			"explanation": "Homer Simpson"
+		} 
+  ],
+
   "Literatuurmemes": [
     {
       "description": "In deze ronde laten we een meme zien die verwijst naar een auteur OF een literair werk.  Sommige herkenbare elementen zijn verborgen.",
@@ -164,6 +270,7 @@
       "answer": "Jorge Luis Borges"
     }
   ],
+
   "Literatuur in kunst": [
     {
       "description": "En nu iets voor de kunstwetenshappers onder ons! Bij elke vraag in deze ronde zie je een kunstwerk dat een auteur, scène of een concept uit de literatuur uitbeeldt. Hoeveel kun je er herkennen?",
@@ -184,9 +291,6 @@
       "description": "De Prerafaëlieten waren dol op deze scène uit de literatuur.",
       "question": "Uit welk werk haalde Swift haar inspiratie voor dit op Millais geïnspireerde tableau vivant? Eén punt voor de auteur, één punt voor het werk.",
       "video": "assets/swift.mp4",
-      "images": [
-        "assets/Ophelia.png" 
-      ],
       "answer": "Hamlet van William Shakespeare"
     },
     {
@@ -247,6 +351,7 @@
       "answer": "Die Lorelei"
     }
   ],
+
  "600 jaar KU Leuven trivia time": [
     {
         "description": "Hoera KU Leuven werd 600 jaar! Maar wat weten jullie eigenlijk over de universiteit waar jullie net aan zijn begonnen? Hier zijn enkele vragen uit deze speciale editie van Trivial Pursuit. ",
@@ -337,6 +442,7 @@
         ]
     }
 ],
+
 "Taalkundememes": [
       {
         "description": "Tijd voor wat serieuzere memes. Hopelijk kennen jullie je IPA nog vanbuiten",
@@ -452,6 +558,7 @@
         ]
     }
 ],
+
   "Old Skool ATW    ": [
         {
             "description": "In deze ronde laten we vragen los op jullie die studenten van ATW1 kregen voorgeschoteld op het examen in de periode 1990-2020.",
@@ -556,7 +663,8 @@
             "answer": "generalisatie"
         }   
     ],
-"muziekronde": [
+
+"Music Maestro": [
     {
         "description": "Thomas en ik houden erg van muziekrondes, dus hier is onze verplichte muziekronde. We beginnen graag met enkele one-hit wonders.",
         "question": "Welk nummer is dit? Geef de titel en de artiest.",
